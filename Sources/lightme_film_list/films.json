@@ -1,0 +1,1746 @@
+[
+    {
+        "id": 0,
+        "longname": "No film stock selected",
+        "shortname": "FILM",
+        "factor": 1.0,
+        "make": "None",
+        "type": 0,
+        "iso": 400,
+        "whiteBalance":1
+    },
+    {
+        "id": 1,
+        "longname": "HP5 Plus 400",
+        "shortname": "HP5+",
+        "factor": 1.31,
+        "make": "Ilford",
+        "type": 1,
+        "iso": 400,
+        "whiteBalance":1
+    },
+    {
+        "id": 2,
+        "longname": "SFX 200",
+        "shortname": "SFX",
+        "factor": 1.43,
+        "make": "Ilford",
+        "type": 1,
+        "iso": 200,
+        "whiteBalance":1
+    },
+    {
+        "id": 3,
+        "longname": "Pan F Plus 50",
+        "shortname": "PANF50",
+        "factor": 1.33,
+        "make": "Ilford",
+        "type": 1,
+        "iso": 50,
+        "whiteBalance":1
+    },
+    {
+        "id": 4,
+        "longname": "Delta 100",
+        "shortname": "D100",
+        "factor": 1.26,
+        "make": "Ilford",
+        "type": 1,
+        "iso": 100,
+        "whiteBalance":1
+    },
+    {
+        "id": 5,
+        "longname": "Delta 400",
+        "shortname": "D400",
+        "factor": 1.41,
+        "make": "Ilford",
+        "type": 1,
+        "iso": 400,
+        "whiteBalance":1
+    },
+    {
+        "id": 6,
+        "longname": "Delta 3200",
+        "shortname": "D3200",
+        "factor": 1.33,
+        "make": "Ilford",
+        "type": 1,
+        "iso": 3200,
+        "whiteBalance":1
+    },
+    {
+        "id": 7,
+        "longname": "FP4 Plus 125",
+        "shortname": "FP4+",
+        "factor": 1.26,
+        "make": "Ilford",
+        "type": 1,
+        "iso": 125,
+        "whiteBalance":1
+    },
+    {
+        "id": 8,
+        "longname": "XP2 Super 400",
+        "shortname": "XP2",
+        "factor": 1.31,
+        "make": "Ilford",
+        "type": 1,
+        "iso": 400,
+        "whiteBalance":1
+    },
+    {
+        "id": 9,
+        "longname": "TRI-X 400",
+        "shortname": "TRI-X",
+        "factor": 1.54,
+        "make": "Kodak",
+        "type": 1,
+        "iso": 400,
+        "whiteBalance":1
+    },
+    {
+        "id": 10,
+        "longname": "T-MAX 100",
+        "shortname": "TMX",
+        "factor": 1.15,
+        "make": "Kodak",
+        "type": 1,
+        "iso": 100,
+        "whiteBalance":1
+    },
+    {
+        "id": 11,
+        "longname": "T-MAX 400",
+        "shortname": "TMY",
+        "factor": 1.24,
+        "make": "Kodak",
+        "type": 1,
+        "iso": 400,
+        "whiteBalance":1
+    },
+    {
+        "id": 12,
+        "longname": "NEOPAN 100 ACROS",
+        "shortname": "ACROS",
+        "factor": 1.06,
+        "make": "Fujifilm",
+        "type": 1,
+        "iso": 100,
+        "whiteBalance":1
+    },
+    {
+        "id": 13,
+        "longname": "Agfapan APX 100",
+        "shortname": "AP100",
+        "factor": 1.46,
+        "make": "Agfa",
+        "type": 1,
+        "iso": 100,
+        "whiteBalance":1
+    },
+    {
+        "id": 14,
+        "longname": "Agfapan APX 400",
+        "shortname": "AP400",
+        "factor": 1.46,
+        "make": "Agfa",
+        "type": 1,
+        "iso": 400,
+        "whiteBalance":1
+    },
+    {
+        "id": 15,
+        "longname": "Portra 160",
+        "shortname": "P160",
+        "factor": 1.33,
+        "make": "Kodak",
+        "type": 2,
+        "iso": 160,
+        "whiteBalance":1
+    },
+    {
+        "id": 16,
+        "longname": "Portra 400",
+        "shortname": "P400",
+        "factor": 1.33,
+        "make": "Kodak",
+        "type": 2,
+        "iso": 400,
+        "whiteBalance":1
+    },
+    {
+        "id": 17,
+        "longname": "Fujicolor PRO 400H",
+        "shortname": "400H",
+        "factor": 1.25,
+        "make": "Fujifilm",
+        "type": 2,
+        "iso": 400,
+        "whiteBalance":1
+    },
+    {
+        "id": 18,
+        "longname": "Fujicolor SUPERIA REALA 100",
+        "shortname": "SU100",
+        "factor": 1.25,
+        "make": "Fujifilm",
+        "type": 2,
+        "iso": 100,
+        "whiteBalance":1
+    },
+    {
+        "id": 19,
+        "longname": "Fujicolor SUPERIA 200",
+        "shortname": "SU200",
+        "factor": 1.17,
+        "make": "Fujifilm",
+        "type": 2,
+        "iso": 200,
+        "whiteBalance":1
+    },
+    {
+        "id": 20,
+        "longname": "Fujicolor SUPERIA X-TRA 400",
+        "shortname": "SU400",
+        "factor": 1.17,
+        "make": "Fujifilm",
+        "type": 2,
+        "iso": 400,
+        "whiteBalance":1
+    },
+    {
+        "id": 21,
+        "longname": "Fujichrome Velvia 50",
+        "shortname": "RVP50",
+        "factor": 1.206,
+        "make": "Fujifilm",
+        "type": 3,
+        "iso": 50,
+        "whiteBalance":1
+    },
+    {
+        "id": 22,
+        "longname": "Fujichrome Velvia 100",
+        "shortname": "RVP100",
+        "factor": 1.07,
+        "make": "Fujifilm",
+        "type": 2,
+        "iso": 100,
+        "whiteBalance":1
+    },
+    {
+        "id": 23,
+        "longname": "Ektar 100",
+        "shortname": "EK100",
+        "factor": 1.142,
+        "make": "Kodak",
+        "type": 2,
+        "iso": 100,
+        "whiteBalance":1
+    },
+    {
+        "id": 24,
+        "longname": "Fujicolor C200",
+        "shortname": "C200",
+        "factor": 1.165,
+        "make": "Fujifilm",
+        "type": 2,
+        "iso": 200,
+        "whiteBalance":1
+    },
+    {
+        "id": 25,
+        "longname": "FOMAPAN 100 Classic",
+        "shortname": "FP100",
+        "factor": 1.602,
+        "make": "Foma",
+        "type": 1,
+        "iso": 100,
+        "whiteBalance":1
+    },
+    {
+        "id": 26,
+        "longname": "FOMAPAN 200 Creative",
+        "shortname": "FP200",
+        "factor": 1.628,
+        "make": "Foma",
+        "type": 1,
+        "iso": 200,
+        "whiteBalance":1
+    },
+    {
+        "id": 27,
+        "longname": "FOMAPAN 400 Action",
+        "shortname": "FP400",
+        "factor": 1.452,
+        "make": "Foma",
+        "type": 1,
+        "iso": 400,
+        "whiteBalance":1
+    },
+    {
+        "id": 28,
+        "longname": "Pancro 400",
+        "shortname": "BP400",
+        "factor": 1,
+        "make": "Bergger",
+        "type": 1,
+        "iso": 400,
+        "whiteBalance":1
+    },
+    {
+        "id": 29,
+        "longname": "CineStill BwXX 250",
+        "shortname": "CSBWXX",
+        "factor": 1,
+        "make": "CineStill",
+        "type": 1,
+        "iso": 250,
+        "whiteBalance":1
+    },
+    {
+        "id": 30,
+        "longname": "CineStill 50D",
+        "shortname": "CS50D",
+        "factor": 1,
+        "make": "CineStill",
+        "type": 2,
+        "iso": 50,
+        "whiteBalance":1
+    },
+    {
+        "id": 31,
+        "longname": "CineStill 800T",
+        "shortname": "CS800T",
+        "factor": 1,
+        "make": "CineStill",
+        "type": 2,
+        "iso": 800,
+        "whiteBalance":2
+    },
+    {
+        "id": 32,
+        "longname": "Ferrania P30 80",
+        "shortname": "FEP30",
+        "factor": 1,
+        "make": "Ferrania",
+        "type": 1,
+        "iso": 80,
+        "whiteBalance":1
+    },
+    {
+        "id": 33,
+        "longname": "RETRO PAN 320 Soft",
+        "shortname": "RP320",
+        "factor": 1,
+        "make": "Foma",
+        "type": 1,
+        "iso": 320,
+        "whiteBalance":1
+    },
+    {
+        "id": 34,
+        "longname": "FOMAPAN R 100",
+        "shortname": "FR100",
+        "factor": 1,
+        "make": "Foma",
+        "type": 4,
+        "iso": 100,
+        "whiteBalance":1
+    },
+    {
+        "id": 35,
+        "longname": "Fujicolor 100",
+        "shortname": "FC100",
+        "factor": 1,
+        "make": "Fujifilm",
+        "type": 2,
+        "iso": 100,
+        "whiteBalance":1
+    },
+    {
+        "id": 36,
+        "longname": "Fujicolor SUPERIA Premium 400",
+        "shortname": "FS400",
+        "factor": 1,
+        "make": "Fujifilm",
+        "type": 2,
+        "iso": 400,
+        "whiteBalance":1
+    },
+    {
+        "id": 37,
+        "longname": "Fujicolor PRO 160NS",
+        "shortname": "FP160",
+        "factor": 1,
+        "make": "Fujifilm",
+        "type": 2,
+        "iso": 160,
+        "whiteBalance":1
+    },
+    {
+        "id": 38,
+        "longname": "Fujichrome Provia 100F",
+        "shortname": "PROVIA",
+        "factor": 1,
+        "make": "Fujifilm",
+        "type": 3,
+        "iso": 100,
+        "whiteBalance":1
+    },
+    {
+        "id": 39,
+        "longname": "Pan 100",
+        "shortname": "PAN100",
+        "factor": 1,
+        "make": "Ilford",
+        "type": 1,
+        "iso": 100,
+        "whiteBalance":1
+    },
+    {
+        "id": 40,
+        "longname": "Pan 400",
+        "shortname": "PAN400",
+        "factor": 1,
+        "make": "Ilford",
+        "type": 1,
+        "iso": 400,
+        "whiteBalance":1
+    },
+    {
+        "id": 41,
+        "longname": "JCH StreetPan 400",
+        "shortname": "JCH400",
+        "factor": 1,
+        "make": "JCH",
+        "type": 1,
+        "iso": 400,
+        "whiteBalance":1
+    },
+    {
+        "id": 42,
+        "longname": "T-MAX P3200",
+        "shortname": "TP3200",
+        "factor": 1,
+        "make": "Kodak",
+        "type": 1,
+        "iso": 800,
+        "whiteBalance":1
+    },
+    {
+        "id": 43,
+        "longname": "ColorPlus 200",
+        "shortname": "C+200",
+        "factor": 1,
+        "make": "Kodak",
+        "type": 2,
+        "iso": 200,
+        "whiteBalance":1
+    },
+    {
+        "id": 44,
+        "longname": "Pro Image 100",
+        "shortname": "KPI100",
+        "factor": 1,
+        "make": "Kodak",
+        "type": 2,
+        "iso": 100,
+        "whiteBalance":1
+    },
+    {
+        "id": 45,
+        "longname": "Gold 200",
+        "shortname": "KG200",
+        "factor": 1,
+        "make": "Kodak",
+        "type": 2,
+        "iso": 200,
+        "whiteBalance":1
+    },
+    {
+        "id": 46,
+        "longname": "Ultramax 400",
+        "shortname": "UMX400",
+        "factor": 1,
+        "make": "Kodak",
+        "type": 2,
+        "iso": 400,
+        "whiteBalance":1
+    },
+    {
+        "id": 47,
+        "longname": "Portra 800",
+        "shortname": "P800",
+        "factor": 1,
+        "make": "Kodak",
+        "type": 2,
+        "iso": 800,
+        "whiteBalance":1
+    },
+    {
+        "id": 48,
+        "longname": "Ektachrome E100",
+        "shortname": "EKT100",
+        "factor": 1,
+        "make": "Kodak",
+        "type": 3,
+        "iso": 100,
+        "whiteBalance":1
+    },
+    {
+        "id": 49,
+        "longname": "Fantome Kino",
+        "shortname": "FK8",
+        "factor": 1,
+        "make": "Lomography",
+        "type": 1,
+        "iso": 8,
+        "whiteBalance":1
+    },
+    {
+        "id": 50,
+        "longname": "Babylon Kino",
+        "shortname": "BK13",
+        "factor": 1,
+        "make": "Lomography",
+        "type": 1,
+        "iso": 13,
+        "whiteBalance":1
+    },
+    {
+        "id": 51,
+        "longname": "Earl Grey",
+        "shortname": "EG400",
+        "factor": 1,
+        "make": "Lomography",
+        "type": 1,
+        "iso": 400,
+        "whiteBalance":1
+    },
+    {
+        "id": 52,
+        "longname": "Orca",
+        "shortname": "ORCA",
+        "factor": 1,
+        "make": "Lomography",
+        "type": 1,
+        "iso": 200,
+        "whiteBalance":1
+    },
+    {
+        "id": 53,
+        "longname": "Lady Grey",
+        "shortname": "LG400",
+        "factor": 1,
+        "make": "Lomography",
+        "type": 1,
+        "iso": 400,
+        "whiteBalance":1
+    },
+    {
+        "id": 54,
+        "longname": "Potsdam 100",
+        "shortname": "LPD100",
+        "factor": 1,
+        "make": "Lomography",
+        "type": 1,
+        "iso": 100,
+        "whiteBalance":1
+    },
+    {
+        "id": 55,
+        "longname": "Berlin 400",
+        "shortname": "LB400",
+        "factor": 1,
+        "make": "Lomography",
+        "type": 1,
+        "iso": 400,
+        "whiteBalance":1
+    },
+    {
+        "id": 56,
+        "longname": "Color Negative 100",
+        "shortname": "LCN100",
+        "factor": 1,
+        "make": "Lomography",
+        "type": 2,
+        "iso": 100,
+        "whiteBalance":1
+    },
+    {
+        "id": 57,
+        "longname": "Color Tiger 200",
+        "shortname": "LCT200",
+        "factor": 1,
+        "make": "Lomography",
+        "type": 2,
+        "iso": 200,
+        "whiteBalance":1
+    },
+    {
+        "id": 58,
+        "longname": "Color Negative 400",
+        "shortname": "LCN400",
+        "factor": 1,
+        "make": "Lomography",
+        "type": 2,
+        "iso": 400,
+        "whiteBalance":1
+    },
+    {
+        "id": 59,
+        "longname": "Color Negative 800",
+        "shortname": "LCN800",
+        "factor": 1,
+        "make": "Lomography",
+        "type": 2,
+        "iso": 800,
+        "whiteBalance":1
+    },
+    {
+        "id": 60,
+        "longname": "Redscale XR 50-200",
+        "shortname": "RXR200",
+        "factor": 1,
+        "make": "Lomography",
+        "type": 2,
+        "iso": 200,
+        "whiteBalance":1
+    },
+    {
+        "id": 61,
+        "longname": "LomoChrome Metropolis",
+        "shortname": "LCM400",
+        "factor": 1,
+        "make": "Lomography",
+        "type": 2,
+        "iso": 400,
+        "whiteBalance":1
+    },
+    {
+        "id": 62,
+        "longname": "LomoChrome Purple XR",
+        "shortname": "LCPXR",
+        "factor": 1,
+        "make": "Lomography",
+        "type": 2,
+        "iso": 400,
+        "whiteBalance":1
+    },
+    {
+        "id": 63,
+        "longname": "Lobster Redscale",
+        "shortname": "LOBRED",
+        "factor": 1,
+        "make": "Lomography",
+        "type": 2,
+        "iso": 200,
+        "whiteBalance":1
+    },
+    {
+        "id": 64,
+        "longname": "XPro 200",
+        "shortname": "LXP200",
+        "factor": 1,
+        "make": "Lomography",
+        "type": 3,
+        "iso": 200,
+        "whiteBalance":1
+    },
+    {
+        "id": 65,
+        "longname": "Peacock X-Pro",
+        "shortname": "PCXPRO",
+        "factor": 1,
+        "make": "Lomography",
+        "type": 3,
+        "iso": 200,
+        "whiteBalance":1
+    },
+    {
+        "id": 66,
+        "longname": "RPX 25",
+        "shortname": "RPX25",
+        "factor": 1.33,
+        "make": "Rollei",
+        "type": 1,
+        "iso": 25,
+        "whiteBalance":1
+    },
+    {
+        "id": 67,
+        "longname": "RPX 100",
+        "shortname": "RPX100",
+        "factor": 1.47,
+        "make": "Rollei",
+        "type": 1,
+        "iso": 100,
+        "whiteBalance":1
+    },
+    {
+        "id": 68,
+        "longname": "RPX 400",
+        "shortname": "RPX400",
+        "factor": 1.48,
+        "make": "Rollei",
+        "type": 1,
+        "iso": 400,
+        "whiteBalance":1
+    },
+    {
+        "id": 69,
+        "longname": "Ortho 25 Plus",
+        "shortname": "ROP25",
+        "factor": 1.27,
+        "make": "Rollei",
+        "type": 1,
+        "iso": 25,
+        "whiteBalance":1
+    },
+    {
+        "id": 70,
+        "longname": "Retro 80S",
+        "shortname": "RR80S",
+        "factor": 1.53,
+        "make": "Rollei",
+        "type": 1,
+        "iso": 80,
+        "whiteBalance":1
+    },
+    {
+        "id": 71,
+        "longname": "SuperPan 200",
+        "shortname": "RSP200",
+        "factor": 1.53,
+        "make": "Rollei",
+        "type": 1,
+        "iso": 200,
+        "whiteBalance":1
+    },
+    {
+        "id": 72,
+        "longname": "Retro 400S",
+        "shortname": "RR400S",
+        "factor": 1.53,
+        "make": "Rollei",
+        "type": 1,
+        "iso": 400,
+        "whiteBalance":1
+    },
+    {
+        "id": 73,
+        "longname": "Infrared 400",
+        "shortname": "RIN400",
+        "factor": 1.53,
+        "make": "Rollei",
+        "type": 1,
+        "iso": 400,
+        "whiteBalance":1
+    },
+    {
+        "id": 74,
+        "longname": "BlackBird",
+        "shortname": "ROLBB",
+        "factor": 1,
+        "make": "Rollei",
+        "type": 1,
+        "iso": 100,
+        "whiteBalance":1
+    },
+    {
+        "id": 75,
+        "longname": "Redbird",
+        "shortname": "ROLRB",
+        "factor": 1,
+        "make": "Rollei",
+        "type": 2,
+        "iso": 400,
+        "whiteBalance":1
+    },
+    {
+        "id": 76,
+        "longname": "Crossbird",
+        "shortname": "ROLCB",
+        "factor": 1,
+        "make": "Rollei",
+        "type": 3,
+        "iso": 200,
+        "whiteBalance":1
+    },
+    {
+        "id": 77,
+        "longname": "Vision3 500T",
+        "shortname": "500T",
+        "factor": 1,
+        "make": "Kodak",
+        "type": 2,
+        "iso": 500,
+        "whiteBalance":2
+    },
+    {
+        "id": 78,
+        "longname": "Vision3 250D",
+        "shortname": "250D",
+        "factor": 1,
+        "make": "Kodak",
+        "type": 2,
+        "iso": 250,
+        "whiteBalance":1
+    },
+    {
+        "id": 79,
+        "longname": "Vision3 200T",
+        "shortname": "200T",
+        "factor": 1,
+        "make": "Kodak",
+        "type": 2,
+        "iso": 200,
+        "whiteBalance":2
+    },
+    {
+        "id": 80,
+        "longname": "Vision3 50D",
+        "shortname": "50D",
+        "factor": 1,
+        "make": "Kodak",
+        "type": 2,
+        "iso": 50,
+        "whiteBalance":1
+    }
+    ,
+    {
+        "id": 81,
+        "longname": "CHS 100 II",
+        "shortname": "CHS100",
+        "factor": 1.46,
+        "make": "ADOX",
+        "type": 1,
+        "iso": 100,
+        "whiteBalance":1
+    }
+    ,
+    {
+        "id": 82,
+        "longname": "HR-50",
+        "shortname": "HR50",
+        "factor": 1.27,
+        "make": "ADOX",
+        "type": 1,
+        "iso": 50,
+        "whiteBalance":1
+    },
+    {
+        "id": 83,
+        "longname": "CMS 20 II PRO",
+        "shortname": "CMS20",
+        "factor": 1,
+        "make": "ADOX",
+        "type": 1,
+        "iso": 20,
+        "whiteBalance":1
+    },
+    {
+        "id": 84,
+        "longname": "SCALA 50",
+        "shortname": "SCA50",
+        "factor": 1,
+        "make": "ADOX",
+        "type": 4,
+        "iso": 50,
+        "whiteBalance":1
+    },
+    {
+        "id": 85,
+        "longname": "SCALA 160",
+        "shortname": "SCA160",
+        "factor": 1.31,
+        "make": "ADOX",
+        "type": 4,
+        "iso": 160,
+        "whiteBalance":1
+    }
+    ,
+    {
+        "id": 86,
+        "longname": "PAN-X 100 Reverso",
+        "shortname": "REV100",
+        "factor": 1,
+        "make": "ADOX",
+        "type": 4,
+        "iso": 100,
+        "whiteBalance":1
+    },
+    {
+        "id": 87,
+        "longname": "Ortho Plus 80",
+        "shortname": "IOP80",
+        "factor": 1.25,
+        "make": "Ilford",
+        "type": 1,
+        "iso": 80,
+        "whiteBalance":1
+    }
+    ,
+    {
+        "id": 88,
+        "longname": "Color Mission 200",
+        "shortname": "CM200",
+        "factor": 1.46,
+        "make": "ADOX",
+        "type": 2,
+        "iso": 200,
+        "whiteBalance":1
+    }
+    ,
+    {
+        "id": 89,
+        "longname": "CineStill 400D",
+        "shortname": "CS400D",
+        "factor": 1,
+        "make": "CineStill",
+        "type": 2,
+        "iso": 400,
+        "whiteBalance":1
+    }
+    ,
+    {
+        "id": 90,
+        "longname": "CineStill Red Rum",
+        "shortname": "CSRRUM",
+        "factor": 1,
+        "make": "CineStill",
+        "type": 2,
+        "iso": 200,
+        "whiteBalance":1
+    }
+    ,
+    {
+        "id": 91,
+        "longname": "FUJIFILM 200 Color Negative Film",
+        "shortname": "FUJ200",
+        "factor": 1,
+        "make": "Fujifilm",
+        "type": 2,
+        "iso": 200,
+        "whiteBalance":1
+    }
+    ,
+    {
+        "id": 92,
+        "longname": "CatLABS X FILM 80",
+        "shortname": "CL80",
+        "factor": 1,
+        "make": "CatLABS",
+        "type": 1,
+        "iso": 80,
+        "whiteBalance":1
+    }
+    ,
+    {
+        "id": 93,
+        "longname": "CatLABS X FILM 320",
+        "shortname": "CL320",
+        "factor": 1,
+        "make": "CatLABS",
+        "type": 1,
+        "iso": 320,
+        "whiteBalance":1
+    }
+    ,
+    {
+        "id": 94,
+        "longname": "CatLABS X FILM 320 Pro",
+        "shortname": "CL320P",
+        "factor": 1,
+        "make": "CatLABS",
+        "type": 1,
+        "iso": 320,
+        "whiteBalance":1
+    }
+    ,
+    {
+        "id": 95,
+        "longname": "Ferrania Orto 50",
+        "shortname": "FE50",
+        "factor": 1,
+        "make": "Ferrania",
+        "type": 1,
+        "iso": 50,
+        "whiteBalance":1
+    }, {
+        "id": 96,
+        "longname": "FUJIFILM 400 Color Negative Film",
+        "shortname": "FUJ400",
+        "factor": 1.17,
+        "make": "Fujifilm",
+        "type": 2,
+        "iso": 400,
+        "whiteBalance":1
+    },
+    {
+        "id": 97,
+        "longname": "Holga 400",
+        "shortname": "HO400",
+        "factor": 1,
+        "make": "Holga",
+        "type": 1,
+        "iso": 400,
+        "whiteBalance":1
+    },
+    {
+        "id": 98,
+        "longname": "ILFOCOLOR 400 Vintage Tone",
+        "shortname": "IF400",
+        "factor": 1,
+        "make": "Ilford",
+        "type": 2,
+        "iso": 400,
+        "whiteBalance":1
+    }
+    ,
+    {
+        "id": 99,
+        "longname": "Kentmere PAN 100",
+        "shortname": "KP100",
+        "factor": 1.26,
+        "make": "Kentmere",
+        "type": 1,
+        "iso": 100,
+        "whiteBalance":1
+    }
+    ,
+    {
+        "id": 100,
+        "longname": "Kentmere PAN 400",
+        "shortname": "KP400",
+        "factor": 1.3,
+        "make": "Kentmere",
+        "type": 1,
+        "iso": 400,
+        "whiteBalance":1
+    }
+    ,
+    {
+        "id": 101,
+        "longname": "FOMAPAN Ortho 400",
+        "shortname": "FO400",
+        "factor": 1.452,
+        "make": "Foma",
+        "type": 1,
+        "iso": 400,
+        "whiteBalance":1
+    }
+    ,
+    {
+        "id": 102,
+        "longname": "Phoenix 200",
+        "shortname": "PH200",
+        "factor": 1.31,
+        "make": "Harman",
+        "type": 2,
+        "iso": 200,
+        "whiteBalance":1
+    },
+    {
+        "id": 103,
+        "longname": "Ferrania P33 160",
+        "shortname": "FEP33",
+        "factor": 1,
+        "make": "Ferrania",
+        "type": 1,
+        "iso": 160,
+        "whiteBalance":1
+    },
+    {
+        "id": 104,
+        "longname": "Copex Rapid",
+        "shortname": "COPEX",
+        "factor": 1,
+        "make": "Agfa",
+        "type": 1,
+        "iso": 50,
+        "whiteBalance":1
+    },
+    {
+        "id": 105,
+        "longname": "Color Mission Helios",
+        "shortname": "HELIOS",
+        "factor": 1,
+        "make": "ADOX",
+        "type": 2,
+        "iso": 3,
+        "whiteBalance":1
+    }
+    ,
+    {
+        "id": 106,
+        "longname": "X FILM 80",
+        "shortname": "XF80",
+        "factor": 1,
+        "make": "CatLABS",
+        "type": 1,
+        "iso": 80,
+        "whiteBalance":1
+    }
+    ,
+    {
+        "id": 107,
+        "longname": "X FILM 320",
+        "shortname": "XF320",
+        "factor": 1,
+        "make": "CatLABS",
+        "type": 1,
+        "iso": 320,
+        "whiteBalance":1
+    }
+    ,
+    {
+        "id": 108,
+        "longname": "X FILM 320 Pro",
+        "shortname": "XF320P",
+        "factor": 1,
+        "make": "CatLABS",
+        "type": 1,
+        "iso": 320,
+        "whiteBalance":1
+    }
+    ,
+    {
+        "id": 109,
+        "longname": "Daily black&white",
+        "shortname": "DBFBW",
+        "factor": 1,
+        "make": "dubblefilm",
+        "type": 1,
+        "iso": 400,
+        "whiteBalance":1
+    }
+    ,
+    {
+        "id": 110,
+        "longname": "Apollo",
+        "shortname": "DBFAPO",
+        "factor": 1,
+        "make": "dubblefilm",
+        "type": 2,
+        "iso": 200,
+        "whiteBalance":1
+    }
+    ,
+    {
+        "id": 111,
+        "longname": "Bubblegum",
+        "shortname": "DBFBUB",
+        "factor": 1,
+        "make": "dubblefilm",
+        "type": 2,
+        "iso": 200,
+        "whiteBalance":1
+    }
+    ,
+    {
+        "id": 112,
+        "longname": "Jelly",
+        "shortname": "DBFJEL",
+        "factor": 1,
+        "make": "dubblefilm",
+        "type": 2,
+        "iso": 200,
+        "whiteBalance":1
+    }
+    ,
+    {
+        "id": 113,
+        "longname": "Pacific",
+        "shortname": "DBFPAC",
+        "factor": 1,
+        "make": "dubblefilm",
+        "type": 2,
+        "iso": 200,
+        "whiteBalance":1
+    }
+    ,
+    {
+        "id": 114,
+        "longname": "Solar",
+        "shortname": "DBFSOL",
+        "factor": 1,
+        "make": "dubblefilm",
+        "type": 2,
+        "iso": 200,
+        "whiteBalance":1
+    }
+    ,
+    {
+        "id": 115,
+        "longname": "Stereo",
+        "shortname": "DBFSTR",
+        "factor": 1,
+        "make": "dubblefilm",
+        "type": 2,
+        "iso": 200,
+        "whiteBalance":1
+    }
+    ,
+    {
+        "id": 116,
+        "longname": "Daily Color",
+        "shortname": "DBFCOL",
+        "factor": 1,
+        "make": "dubblefilm",
+        "type": 2,
+        "iso": 400,
+        "whiteBalance":1
+    }
+    ,
+    {
+        "id": 117,
+        "longname": "F",
+        "shortname": "WASHIF",
+        "factor": 1,
+        "make": "Film Washi",
+        "type": 1,
+        "iso": 100,
+        "whiteBalance":1
+    }
+    ,
+    {
+        "id": 118,
+        "longname": "P",
+        "shortname": "WASHIP",
+        "factor": 1,
+        "make": "Film Washi",
+        "type": 1,
+        "iso": 100,
+        "whiteBalance":1
+    }
+    ,
+    {
+        "id": 119,
+        "longname": "V",
+        "shortname": "WASHIV",
+        "factor": 1,
+        "make": "Film Washi",
+        "type": 1,
+        "iso": 100,
+        "whiteBalance":1
+    }
+    ,
+    {
+        "id": 120,
+        "longname": "W",
+        "shortname": "WASHIW",
+        "factor": 1,
+        "make": "Film Washi",
+        "type": 1,
+        "iso": 25,
+        "whiteBalance":1
+    }
+    ,
+    {
+        "id": 121,
+        "longname": "Y",
+        "shortname": "WASHIY",
+        "factor": 1,
+        "make": "Film Washi",
+        "type": 1,
+        "iso": 100,
+        "whiteBalance":1
+    }
+    ,
+    {
+        "id": 122,
+        "longname": "Z",
+        "shortname": "WASHIZ",
+        "factor": 1,
+        "make": "Film Washi",
+        "type": 1,
+        "iso": 400,
+        "whiteBalance":1
+    },
+    {
+        "id": 123,
+        "longname": "SEAGULL 100",
+        "shortname": "SEA100",
+        "factor": 1,
+        "make": "Oriental",
+        "type": 1,
+        "iso": 100,
+        "whiteBalance":1
+    }
+    ,
+    {
+        "id": 124,
+        "longname": "SEAGULL 400",
+        "shortname": "SEA400",
+        "factor": 1,
+        "make": "Oriental",
+        "type": 1,
+        "iso": 400,
+        "whiteBalance":1
+    }
+    ,
+    {
+        "id": 125,
+        "longname": "Wolfen NC500",
+        "shortname": "OW500",
+        "factor": 1,
+        "make": "ORWO",
+        "type": 2,
+        "iso": 400,
+        "whiteBalance":1
+    }
+    ,
+    {
+        "id": 126,
+        "longname": "UN54",
+        "shortname": "OWUN54",
+        "factor": 1,
+        "make": "ORWO",
+        "type": 1,
+        "iso": 100,
+        "whiteBalance":1
+    }
+    ,
+    {
+        "id": 127,
+        "longname": "NP100",
+        "shortname": "OW100",
+        "factor": 1,
+        "make": "ORWO",
+        "type": 1,
+        "iso": 100,
+        "whiteBalance":1
+    }
+    ,
+    {
+        "id": 128,
+        "longname": "P400",
+        "shortname": "OWP400",
+        "factor": 1,
+        "make": "ORWO",
+        "type": 1,
+        "iso": 400,
+        "whiteBalance":1
+    }
+    ,
+    {
+        "id": 129,
+        "longname": "Pan 100S",
+        "shortname": "RR100S",
+        "factor": 1,
+        "make": "Rera",
+        "type": 1,
+        "iso": 100,
+        "whiteBalance":1
+    }
+    ,
+    {
+        "id": 130,
+        "longname": "Pan 400",
+        "shortname": "RR400",
+        "factor": 1,
+        "make": "Rera",
+        "type": 1,
+        "iso": 400,
+        "whiteBalance":1
+    }
+    ,
+    {
+        "id": 131,
+        "longname": "Cool 100",
+        "shortname": "RRCOOL",
+        "factor": 1,
+        "make": "Rera",
+        "type": 2,
+        "iso": 100,
+        "whiteBalance":1
+    }
+    ,
+    {
+        "id": 132,
+        "longname": "Chrome 100",
+        "shortname": "RRCHRO",
+        "factor": 1,
+        "make": "Rera",
+        "type": 3,
+        "iso": 100,
+        "whiteBalance":1
+    }
+    ,
+    {
+        "id": 133,
+        "longname": "GP3 100 PAN",
+        "shortname": "SHA100",
+        "factor": 1,
+        "make": "Shanghai",
+        "type": 1,
+        "iso": 100,
+        "whiteBalance":1
+    }
+    ,
+    {
+        "id": 134,
+        "longname": "GP3 400 PAN",
+        "shortname": "SHA400",
+        "factor": 1,
+        "make": "Shanghai",
+        "type": 1,
+        "iso": 400,
+        "whiteBalance":1
+    }
+    ,
+    {
+        "id": 135,
+        "longname": "CANDIDO200 Color Film",
+        "shortname": "CAN200",
+        "factor": 1,
+        "make": "CANDIDO",
+        "type": 2,
+        "iso": 200,
+        "whiteBalance":1
+    }
+    ,
+    {
+        "id": 136,
+        "longname": "CANDIDO400 Color Film",
+        "shortname": "CAN400",
+        "factor": 1,
+        "make": "CANDIDO",
+        "type": 2,
+        "iso": 400,
+        "whiteBalance":1
+    }
+    ,
+    {
+        "id": 137,
+        "longname": "CANDIDO800 Color Film",
+        "shortname": "CAN800",
+        "factor": 1,
+        "make": "CANDIDO",
+        "type": 2,
+        "iso": 800,
+        "whiteBalance":1
+    },
+    {
+        "id": 138,
+        "longname": "AEROCOLOR IV",
+        "shortname": "AEROIV",
+        "factor": 1,
+        "make": "Kodak",
+        "type": 2,
+        "iso": 125,
+        "whiteBalance":1
+    }
+    ,
+    {
+        "id": 139,
+        "longname": "PRO IMAGE 100",
+        "shortname": "PROIMG",
+        "factor": 1,
+        "make": "Kodak",
+        "type": 2,
+        "iso": 100,
+        "whiteBalance":1
+    },
+    {
+        "id": 140,
+        "longname": "LomoChrome Color '92",
+        "shortname": "LCC92",
+        "factor": 1,
+        "make": "Lomography",
+        "type": 2,
+        "iso": 400,
+        "whiteBalance":1
+    }
+    ,
+    {
+        "id": 141,
+        "longname": "MONOLIT 64",
+        "shortname": "MNLT64",
+        "factor": 1,
+        "make": "KONO!",
+        "type": 1,
+        "iso": 64,
+        "whiteBalance":1
+    }
+    ,
+    {
+        "id": 142,
+        "longname": "REKORDER 100-200",
+        "shortname": "RKRDR",
+        "factor": 1,
+        "make": "KONO!",
+        "type": 1,
+        "iso": 100,
+        "whiteBalance":1
+    }
+    ,
+    {
+        "id": 143,
+        "longname": "Donau 6",
+        "shortname": "DONAU6",
+        "factor": 1,
+        "make": "KONO!",
+        "type": 2,
+        "iso": 6,
+        "whiteBalance":1
+    }
+    ,
+    {
+        "id": 144,
+        "longname": "Kolorit 125 Tungsten",
+        "shortname": "K125T",
+        "factor": 1,
+        "make": "KONO!",
+        "type": 2,
+        "iso": 125,
+        "whiteBalance":2
+    }
+    ,
+    {
+        "id": 145,
+        "longname": "Kolorit 400 Tungsten",
+        "shortname": "K400T",
+        "factor": 1,
+        "make": "KONO!",
+        "type": 2,
+        "iso": 400,
+        "whiteBalance":2
+    }
+    ,
+    {
+        "id": 146,
+        "longname": "Rotwild 400",
+        "shortname": "KRW400",
+        "factor": 1,
+        "make": "KONO!",
+        "type": 2,
+        "iso": 400,
+        "whiteBalance":1
+    }
+    ,
+    {
+        "id": 147,
+        "longname": "ALiEN 200",
+        "shortname": "ALIEN",
+        "factor": 1,
+        "make": "KONO!",
+        "type": 2,
+        "iso": 200,
+        "whiteBalance":1
+    }
+    ,
+    {
+        "id": 148,
+        "longname": "UFO 200",
+        "shortname": "UFO",
+        "factor": 1,
+        "make": "KONO!",
+        "type": 2,
+        "iso": 200,
+        "whiteBalance":1
+    }
+    ,
+    {
+        "id": 149,
+        "longname": "KATZ 200",
+        "shortname": "KATZ",
+        "factor": 1,
+        "make": "KONO!",
+        "type": 2,
+        "iso": 200,
+        "whiteBalance":1
+    }
+    ,
+    {
+        "id": 150,
+        "longname": "LUFT 200",
+        "shortname": "LUFT",
+        "factor": 1,
+        "make": "KONO!",
+        "type": 2,
+        "iso": 200,
+        "whiteBalance":1
+    }
+    ,
+    {
+        "id": 151,
+        "longname": "LIEBE 200",
+        "shortname": "LIEBE",
+        "factor": 1,
+        "make": "KONO!",
+        "type": 2,
+        "iso": 200,
+        "whiteBalance":1
+    }
+    ,
+    {
+        "id": 152,
+        "longname": "WINTERMÄRCHEN 200",
+        "shortname": "WINTER",
+        "factor": 1,
+        "make": "KONO!",
+        "type": 2,
+        "iso": 200,
+        "whiteBalance":1
+    }
+    ,
+    {
+        "id": 153,
+        "longname": "Lucky SHD 400",
+        "shortname": "LUCKY",
+        "factor": 1,
+        "make": "Lucky",
+        "type": 1,
+        "iso": 400,
+        "whiteBalance":1
+    },
+
+        {
+            "id": 154,
+            "longname": "Polaroid i-Type Color Instant Film",
+            "shortname": "ITYPEC",
+            "factor": 1,
+            "make": "Polaroid",
+            "type": 5,
+            "iso": 640,
+            "whiteBalance": 1
+        },
+        {
+            "id": 155,
+            "longname": "Polaroid i-Type B&W Instant Film",
+            "shortname": "ITYPE-BW",
+            "factor": 1,
+            "make": "Polaroid",
+            "type": 6,
+            "iso": 640,
+            "whiteBalance": 1
+        },
+        {
+            "id": 156,
+            "longname": "Polaroid 600 Color Instant Film",
+            "shortname": "P600C",
+            "factor": 1,
+            "make": "Polaroid",
+            "type": 5,
+            "iso": 640,
+            "whiteBalance": 1
+        },
+        {
+            "id": 157,
+            "longname": "Polaroid 600 B&W Instant Film",
+            "shortname": "P600BW",
+            "factor": 1,
+            "make": "Polaroid",
+            "type": 6,
+            "iso": 640,
+            "whiteBalance": 1
+        },
+        {
+            "id": 158,
+            "longname": "Polaroid SX-70 Color Instant Film",
+            "shortname": "SX70C",
+            "factor": 1,
+            "make": "Polaroid",
+            "type": 5,
+            "iso": 160,
+            "whiteBalance": 1
+        },
+        {
+            "id": 159,
+            "longname": "Polaroid SX-70 B&W Instant Film",
+            "shortname": "SX70-BW",
+            "factor": 1,
+            "make": "Polaroid",
+            "type": 6,
+            "iso": 160,
+            "whiteBalance": 1
+        },
+        {
+            "id": 160,
+            "longname": "Polaroid Go Color Instant Film",
+            "shortname": "PGOC",
+            "factor": 1,
+            "make": "Polaroid",
+            "type": 5,
+            "iso": 640,
+            "whiteBalance": 1
+        },
+        {
+            "id": 161,
+            "longname": "Fujifilm Instax Mini Color Film",
+            "shortname": "MINIC",
+            "factor": 1,
+            "make": "Fujifilm",
+            "type": 5,
+            "iso": 800,
+            "whiteBalance": 1
+        },
+        {
+            "id": 162,
+            "longname": "Fujifilm Instax Mini Monochrome Film",
+            "shortname": "MINIBW",
+            "factor": 1,
+            "make": "Fujifilm",
+            "type": 6,
+            "iso": 800,
+            "whiteBalance": 1
+        },
+        {
+            "id": 163,
+            "longname": "Fujifilm Instax Square White Film",
+            "shortname": "SQC",
+            "factor": 1,
+            "make": "Fujifilm",
+            "type": 5,
+            "iso": 800,
+            "whiteBalance": 1
+        },
+        {
+            "id": 164,
+            "longname": "Fujifilm Instax Wide Color Film",
+            "shortname": "WIDEC",
+            "factor": 1,
+            "make": "Fujifilm",
+            "type": 5,
+            "iso": 800,
+            "whiteBalance": 1
+        },
+        {
+            "id": 165,
+            "longname": "Fujifilm Instax Wide Monochrome Film",
+            "shortname": "WIDEBW",
+            "factor": 1,
+            "make": "Fujifilm",
+            "type": 6,
+            "iso": 800,
+            "whiteBalance": 1
+        },
+        {
+            "id": 166,
+            "longname": "EPT Ektachrome 160T",
+            "shortname": "EKT160",
+            "factor": 1,
+            "make": "Kodak",
+            "type": 3,
+            "iso": 160,
+            "whiteBalance":2
+        }
+        ,
+        {
+            "id": 167,
+            "longname": "Kentmere PAN 200",
+            "shortname": "KP200",
+            "factor": 1.26,
+            "make": "Kentmere",
+            "type": 1,
+            "iso": 200,
+            "whiteBalance":1
+        }
+        ,
+
+
+]
