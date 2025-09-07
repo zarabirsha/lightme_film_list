@@ -22,7 +22,7 @@
     {
         "id": 2,
         "longname": "SFX 200",
-        "shortname": "SFX",
+        "shortname": "SFX200",
         "factor": 1.43,
         "make": "Ilford",
         "type": 1,
@@ -42,7 +42,7 @@
     {
         "id": 4,
         "longname": "Delta 100",
-        "shortname": "D100",
+        "shortname": "DEL100",
         "factor": 1.26,
         "make": "Ilford",
         "type": 1,
@@ -52,7 +52,7 @@
     {
         "id": 5,
         "longname": "Delta 400",
-        "shortname": "D400",
+        "shortname": "DEL400",
         "factor": 1.41,
         "make": "Ilford",
         "type": 1,
@@ -62,7 +62,7 @@
     {
         "id": 6,
         "longname": "Delta 3200",
-        "shortname": "D3200",
+        "shortname": "DEL3200",
         "factor": 1.33,
         "make": "Ilford",
         "type": 1,
@@ -92,7 +92,7 @@
     {
         "id": 9,
         "longname": "TRI-X 400",
-        "shortname": "TRI-X",
+        "shortname": "400TX",
         "factor": 1.54,
         "make": "Kodak",
         "type": 1,
@@ -301,7 +301,7 @@
     },
     {
         "id": 30,
-        "longname": "CineStill 50D",
+        "longname": "50D",
         "shortname": "CS50D",
         "factor": 1,
         "make": "CineStill",
@@ -311,7 +311,7 @@
     },
     {
         "id": 31,
-        "longname": "CineStill 800T",
+        "longname": "800T",
         "shortname": "CS800T",
         "factor": 1,
         "make": "CineStill",
@@ -896,7 +896,7 @@
     ,
     {
         "id": 89,
-        "longname": "CineStill 400D",
+        "longname": "400D",
         "shortname": "CS400D",
         "factor": 1,
         "make": "CineStill",
@@ -907,7 +907,7 @@
     ,
     {
         "id": 90,
-        "longname": "CineStill Red Rum",
+        "longname": "Red Rum",
         "shortname": "CSRRUM",
         "factor": 1,
         "make": "CineStill",
@@ -918,7 +918,7 @@
     ,
     {
         "id": 91,
-        "longname": "FUJIFILM 200 Color Negative Film",
+        "longname": "200 Color Negative Film",
         "shortname": "FUJ200",
         "factor": 1,
         "make": "Fujifilm",
@@ -929,7 +929,7 @@
     ,
     {
         "id": 92,
-        "longname": "CatLABS X FILM 80",
+        "longname": "X FILM 80",
         "shortname": "CL80",
         "factor": 1,
         "make": "CatLABS",
@@ -940,7 +940,7 @@
     ,
     {
         "id": 93,
-        "longname": "CatLABS X FILM 320",
+        "longname": "X FILM 320",
         "shortname": "CL320",
         "factor": 1,
         "make": "CatLABS",
@@ -951,7 +951,7 @@
     ,
     {
         "id": 94,
-        "longname": "CatLABS X FILM 320 Pro",
+        "longname": "X FILM 320 Pro",
         "shortname": "CL320P",
         "factor": 1,
         "make": "CatLABS",
@@ -962,7 +962,7 @@
     ,
     {
         "id": 95,
-        "longname": "Ferrania Orto 50",
+        "longname": "Orto 50",
         "shortname": "FE50",
         "factor": 1,
         "make": "Ferrania",
@@ -971,7 +971,7 @@
         "whiteBalance":1
     }, {
         "id": 96,
-        "longname": "FUJIFILM 400 Color Negative Film",
+        "longname": "400 Color Negative Film",
         "shortname": "FUJ400",
         "factor": 1.17,
         "make": "Fujifilm",
@@ -1002,7 +1002,7 @@
     ,
     {
         "id": 99,
-        "longname": "Kentmere PAN 100",
+        "longname": "PAN 100",
         "shortname": "KP100",
         "factor": 1.26,
         "make": "Kentmere",
@@ -1013,7 +1013,7 @@
     ,
     {
         "id": 100,
-        "longname": "Kentmere PAN 400",
+        "longname": "PAN 400",
         "shortname": "KP400",
         "factor": 1.3,
         "make": "Kentmere",
@@ -1045,7 +1045,7 @@
     },
     {
         "id": 103,
-        "longname": "Ferrania P33 160",
+        "longname": "P33 160",
         "shortname": "FEP33",
         "factor": 1,
         "make": "Ferrania",
@@ -1394,7 +1394,7 @@
     ,
     {
         "id": 135,
-        "longname": "CANDIDO200 Color Film",
+        "longname": "200 Color Film",
         "shortname": "CAN200",
         "factor": 1,
         "make": "CANDIDO",
@@ -1405,7 +1405,7 @@
     ,
     {
         "id": 136,
-        "longname": "CANDIDO400 Color Film",
+        "longname": "400 Color Film",
         "shortname": "CAN400",
         "factor": 1,
         "make": "CANDIDO",
@@ -1416,7 +1416,7 @@
     ,
     {
         "id": 137,
-        "longname": "CANDIDO800 Color Film",
+        "longname": "800 Color Film",
         "shortname": "CAN800",
         "factor": 1,
         "make": "CANDIDO",
@@ -1590,7 +1590,7 @@
     ,
     {
         "id": 153,
-        "longname": "Lucky SHD 400",
+        "longname": "SHD 400",
         "shortname": "LUCKY",
         "factor": 1,
         "make": "Lucky",
@@ -1601,7 +1601,7 @@
 
         {
             "id": 154,
-            "longname": "Polaroid i-Type Color Instant Film",
+            "longname": "i-Type Color Instant Film",
             "shortname": "ITYPEC",
             "factor": 1,
             "make": "Polaroid",
@@ -1611,7 +1611,7 @@
         },
         {
             "id": 155,
-            "longname": "Polaroid i-Type B&W Instant Film",
+            "longname": "i-Type B&W Instant Film",
             "shortname": "ITYPE-BW",
             "factor": 1,
             "make": "Polaroid",
@@ -1621,7 +1621,7 @@
         },
         {
             "id": 156,
-            "longname": "Polaroid 600 Color Instant Film",
+            "longname": "600 Color Instant Film",
             "shortname": "P600C",
             "factor": 1,
             "make": "Polaroid",
@@ -1631,7 +1631,7 @@
         },
         {
             "id": 157,
-            "longname": "Polaroid 600 B&W Instant Film",
+            "longname": "600 B&W Instant Film",
             "shortname": "P600BW",
             "factor": 1,
             "make": "Polaroid",
@@ -1641,7 +1641,7 @@
         },
         {
             "id": 158,
-            "longname": "Polaroid SX-70 Color Instant Film",
+            "longname": "SX-70 Color Instant Film",
             "shortname": "SX70C",
             "factor": 1,
             "make": "Polaroid",
@@ -1651,7 +1651,7 @@
         },
         {
             "id": 159,
-            "longname": "Polaroid SX-70 B&W Instant Film",
+            "longname": "SX-70 B&W Instant Film",
             "shortname": "SX70-BW",
             "factor": 1,
             "make": "Polaroid",
@@ -1661,7 +1661,7 @@
         },
         {
             "id": 160,
-            "longname": "Polaroid Go Color Instant Film",
+            "longname": "Go Color Instant Film",
             "shortname": "PGOC",
             "factor": 1,
             "make": "Polaroid",
@@ -1671,7 +1671,7 @@
         },
         {
             "id": 161,
-            "longname": "Fujifilm Instax Mini Color Film",
+            "longname": "Instax Mini Color Film",
             "shortname": "MINIC",
             "factor": 1,
             "make": "Fujifilm",
@@ -1681,7 +1681,7 @@
         },
         {
             "id": 162,
-            "longname": "Fujifilm Instax Mini Monochrome Film",
+            "longname": "Instax Mini Monochrome Film",
             "shortname": "MINIBW",
             "factor": 1,
             "make": "Fujifilm",
@@ -1691,7 +1691,7 @@
         },
         {
             "id": 163,
-            "longname": "Fujifilm Instax Square White Film",
+            "longname": "Instax Square White Film",
             "shortname": "SQC",
             "factor": 1,
             "make": "Fujifilm",
@@ -1701,7 +1701,7 @@
         },
         {
             "id": 164,
-            "longname": "Fujifilm Instax Wide Color Film",
+            "longname": "Instax Wide Color Film",
             "shortname": "WIDEC",
             "factor": 1,
             "make": "Fujifilm",
@@ -1711,7 +1711,7 @@
         },
         {
             "id": 165,
-            "longname": "Fujifilm Instax Wide Monochrome Film",
+            "longname": "Instax Wide Monochrome Film",
             "shortname": "WIDEBW",
             "factor": 1,
             "make": "Fujifilm",
@@ -1732,7 +1732,7 @@
         ,
         {
             "id": 167,
-            "longname": "Kentmere PAN 200",
+            "longname": "PAN 200",
             "shortname": "KP200",
             "factor": 1.26,
             "make": "Kentmere",
@@ -1751,7 +1751,293 @@
             "iso": 200,
             "whiteBalance":1
         }
+        ,{
+            "id": 169,
+            "longname": "TRI-X 320",
+            "shortname": "TXP320",
+            "factor": 1,
+            "make": "Kodak",
+            "type": 1,
+            "iso": 320,
+            "whiteBalance":1
+        }
         ,
-
+        {
+            "id": 170,
+            "longname": "Colour 400",
+            "shortname": "AGFC400",
+            "factor": 1,
+            "make": "Agfa",
+            "type": 2,
+            "iso": 400,
+            "whiteBalance":1
+        },
+        {
+            "id": 171,
+            "longname": "Red 125",
+            "shortname": "RED125",
+            "factor": 1,
+            "make": "Harman",
+            "type": 2,
+            "iso": 125,
+            "whiteBalance":1
+        }
+        ,{
+            "id": 172,
+            "longname": "ILFOCOLOR 400 Plus Vintage Tone",
+            "shortname": "IF400+",
+            "factor": 1,
+            "make": "Ilford",
+            "type": 2,
+            "iso": 400,
+            "whiteBalance":1
+        }
+        ,{
+            "id": 173,
+            "longname": "ILFOCOLOR 400 Cine Tone",
+            "shortname": "IF400C",
+            "factor": 1,
+            "make": "Ilford",
+            "type": 2,
+            "iso": 400,
+            "whiteBalance":1
+        }
+        ,
+        {
+            "id": 174,
+            "longname": "ILFOCHROME 100",
+            "shortname": "IFCH100",
+            "factor": 1,
+            "make": "Ilford",
+            "type": 3,
+            "iso": 100,
+            "whiteBalance":1
+        }
+        ,
+        {
+            "id": 175,
+            "longname": "Opticolour 200",
+            "shortname": "OPT200",
+            "factor": 1,
+            "make": "Optik Oldschool",
+            "type": 2,
+            "iso": 200,
+            "whiteBalance":1
+        }
+        ,
+        {
+            "id": 176,
+            "longname": "Photo B&W 100",
+            "shortname": "VBW100",
+            "factor": 1,
+            "make": "Vibe",
+            "type": 1,
+            "iso": 100,
+            "whiteBalance":1
+        }
+        ,{
+            "id": 177,
+            "longname": "Photo B&W 400",
+            "shortname": "VBW400",
+            "factor": 1,
+            "make": "Vibe",
+            "type": 1,
+            "iso": 400,
+            "whiteBalance":1
+        }
+        ,
+        {
+            "id": 178,
+            "longname": "Photo 400",
+            "shortname": "VBC400",
+            "factor": 1,
+            "make": "Vibe",
+            "type": 2,
+            "iso": 400,
+            "whiteBalance":1
+        }
+        ,{
+            "id": 179,
+            "longname": "Photo 800",
+            "shortname": "VBC800",
+            "factor": 1,
+            "make": "Vibe",
+            "type": 2,
+            "iso": 800,
+            "whiteBalance":2
+        }
+        ,
+        {
+            "id": 180,
+            "longname": "T-25",
+            "shortname": "SFLT25",
+            "factor": 1,
+            "make": "Sreda Film Lab",
+            "type": 1,
+            "iso": 125,
+            "whiteBalance":1
+        }
+        ,
+        {
+            "id": 181,
+            "longname": "T-42",
+            "shortname": "SFLT42",
+            "factor": 1,
+            "make": "Sreda Film Lab",
+            "type": 1,
+            "iso": 125,
+            "whiteBalance":1
+        }
+        ,
+        {
+            "id": 182,
+            "longname": "UN54",
+            "shortname": "SFLUN54",
+            "factor": 1,
+            "make": "Sreda Film Lab",
+            "type": 1,
+            "iso": 100,
+            "whiteBalance":1
+        }
+        ,
+        {
+            "id": 183,
+            "longname": "UN75",
+            "shortname": "SFLUN75",
+            "factor": 1,
+            "make": "Sreda Film Lab",
+            "type": 1,
+            "iso": 320,
+            "whiteBalance":1
+        }
+        ,
+        {
+            "id": 184,
+            "longname": "Double-X 5222",
+            "shortname": "SFL5222",
+            "factor": 1,
+            "make": "Sreda Film Lab",
+            "type": 1,
+            "iso": 250,
+            "whiteBalance":1
+        }
+        ,
+        {
+            "id": 185,
+            "longname": "Double-X Aerographic 400",
+            "shortname": "SFLA400",
+            "factor": 1,
+            "make": "Sreda Film Lab",
+            "type": 1,
+            "iso": 400,
+            "whiteBalance":1
+        }
+        ,
+        {
+            "id": 186,
+            "longname": "A-Color 125",
+            "shortname": "SFLC125",
+            "factor": 1,
+            "make": "Sreda Film Lab",
+            "type": 2,
+            "iso": 125,
+            "whiteBalance":1
+        }
+        ,
+        {
+            "id": 187,
+            "longname": "50D",
+            "shortname": "SFL50D",
+            "factor": 1,
+            "make": "Sreda Film Lab",
+            "type": 2,
+            "iso": 50,
+            "whiteBalance":1
+        }
+        ,
+        {
+            "id": 188,
+            "longname": "250D",
+            "shortname": "SFL250D",
+            "factor": 1,
+            "make": "Sreda Film Lab",
+            "type": 2,
+            "iso": 250,
+            "whiteBalance":1
+        }
+        ,
+        {
+            "id": 189,
+            "longname": "200T",
+            "shortname": "SFL200T",
+            "factor": 1,
+            "make": "Sreda Film Lab",
+            "type": 2,
+            "iso": 200,
+            "whiteBalance":2
+        }
+        ,
+        {
+            "id": 190,
+            "longname": "500T",
+            "shortname": "SFL500T",
+            "factor": 1,
+            "make": "Sreda Film Lab",
+            "type": 2,
+            "iso": 500,
+            "whiteBalance":2
+        }
+        ,
+        {
+            "id": 191,
+            "longname": "Aviphot Pan 200",
+            "shortname": "AVI200",
+            "factor": 1,
+            "make": "Agfa",
+            "type": 1,
+            "iso": 200,
+            "whiteBalance":1
+        },
+        {
+            "id": 192,
+            "longname": "Aviphot Pan 80",
+            "shortname": "AVI200",
+            "factor": 1,
+            "make": "Agfa",
+            "type": 1,
+            "iso": 80,
+            "whiteBalance":1
+        },
+        
+        {
+            "id": 193,
+            "longname": "1Hundred",
+            "shortname": "1HUND",
+            "factor": 1,
+            "make": "Hundred film",
+            "type": 2,
+            "iso": 100,
+            "whiteBalance":1
+        },
+        {
+            "id": 194,
+            "longname": "4Hundred",
+            "shortname": "4HUND",
+            "factor": 1,
+            "make": "Hundred film",
+            "type": 2,
+            "iso": 400,
+            "whiteBalance":1
+        },
+        {
+            "id": 195,
+            "longname": "8Hundred",
+            "shortname": "8HUND",
+            "factor": 1,
+            "make": "Hundred film",
+            "type": 2,
+            "iso": 800,
+            "whiteBalance":1
+        },
 
 ]
