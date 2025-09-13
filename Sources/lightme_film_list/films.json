@@ -2039,5 +2039,46 @@
             "iso": 800,
             "whiteBalance":1
         }
+        ,
+        {
+            "id": 196,
+            "longname": "MONOPAN 50",
+            "shortname": "LEIM50",
+            "factor": 1.27,
+            "make": "Leica",
+            "type": 1,
+            "iso": 50,
+            "whiteBalance":1
+        },
+        {
+            "id": 197,
+            "longname": "KODACHROME 64",
+            "shortname": "KC64",
+            "factor": 1,
+            "make": "Kodak",
+            "type": 3,
+            "iso": 64,
+            "whiteBalance":1
+        },
+        {
+            "id": 197,
+            "longname": "KODACHROME 25",
+            "shortname": "KC25",
+            "factor": 1,
+            "make": "Kodak",
+            "type": 3,
+            "iso": 25,
+            "whiteBalance":1
+        },
+        {
+            "id": 197,
+            "longname": "KODACHROME 200",
+            "shortname": "KC200",
+            "factor": 1,
+            "make": "Kodak",
+            "type": 3,
+            "iso": 200,
+            "whiteBalance":1
+        },
 
 ]
