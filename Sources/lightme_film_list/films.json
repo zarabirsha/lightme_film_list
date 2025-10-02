@@ -2073,11 +2073,31 @@
         {
             "id": 197,
             "longname": "KODACHROME 200",
-            "shortname": "KC200",
+            "shortname": "KCH200",
             "factor": 1,
             "make": "Kodak",
             "type": 3,
             "iso": 200,
+            "whiteBalance":1
+        },
+        {
+            "id": 198,
+            "longname": "KODACOLOR 200",
+            "shortname": "KCO200",
+            "factor": 1,
+            "make": "Kodak",
+            "type": 2,
+            "iso": 200,
+            "whiteBalance":1
+        },
+        {
+            "id": 199,
+            "longname": "KODACOLOR 100",
+            "shortname": "KCO100",
+            "factor": 1,
+            "make": "Kodak",
+            "type": 2,
+            "iso": 100,
             "whiteBalance":1
         },
 
