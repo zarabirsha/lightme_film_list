@@ -2100,5 +2100,234 @@
             "iso": 100,
             "whiteBalance":1
         },
-
+        {
+            "id": 200,
+            "longname": "Aurora 400",
+            "shortname": "FLAUR40",
+            "factor": 1,
+            "make": "Flic Film",
+            "type": 2,
+            "iso": 400,
+            "whiteBalance": 1
+        },
+        {
+            "id": 201,
+            "longname": "Elektra 100",
+            "shortname": "FLEL100",
+            "factor": 1,
+            "make": "Flic Film",
+            "type": 2,
+            "iso": 100,
+            "whiteBalance": 1
+        },
+        {
+            "id": 202,
+            "longname": "Apollo 18",
+            "shortname": "FLAP18",
+            "factor": 1,
+            "make": "Flic Film",
+            "type": 2,
+            "iso": 400,
+            "whiteBalance": 1
+        },
+        {
+            "id": 203,
+            "longname": "Psychedelic 400",
+            "shortname": "FLPS400",
+            "factor": 1,
+            "make": "Flic Film",
+            "type": 2,
+            "iso": 400,
+            "whiteBalance": 1
+        },
+        {
+            "id": 204,
+            "longname": "Street Savvy 400",
+            "shortname": "FLSAV40",
+            "factor": 1,
+            "make": "Flic Film",
+            "type": 2,
+            "iso": 400,
+            "whiteBalance": 1
+        },
+        {
+            "id": 205,
+            "longname": "Cine Colour 500T",
+            "shortname": "FLC500T",
+            "factor": 1,
+            "make": "Flic Film",
+            "type": 2,
+            "iso": 500,
+            "whiteBalance": 2
+        },
+        {
+            "id": 206,
+            "longname": "Cine Colour 200T",
+            "shortname": "FLC200T",
+            "factor": 1,
+            "make": "Flic Film",
+            "type": 2,
+            "iso": 200,
+            "whiteBalance": 2
+        },
+        {
+            "id": 207,
+            "longname": "Cine Colour 250D",
+            "shortname": "FLC250D",
+            "factor": 1,
+            "make": "Flic Film",
+            "type": 2,
+            "iso": 250,
+            "whiteBalance": 1
+        },
+        {
+            "id": 208,
+            "longname": "Cine Colour 50D",
+            "shortname": "FLC50D",
+            "factor": 1,
+            "make": "Flic Film",
+            "type": 2,
+            "iso": 50,
+            "whiteBalance": 1
+        },
+        {
+            "id": 209,
+            "longname": "Chrome 100",
+            "shortname": "FLCH100",
+            "factor": 1,
+            "make": "Flic Film",
+            "type": 3,
+            "iso": 100,
+            "whiteBalance": 1
+        },
+        {
+            "id": 210,
+            "longname": "Ultrapan 100",
+            "shortname": "FLUP100",
+            "factor": 1,
+            "make": "Flic Film",
+            "type": 1,
+            "iso": 100,
+            "whiteBalance": 1
+        },
+        {
+            "id": 211,
+            "longname": "Ultrapan 200",
+            "shortname": "FLUP200",
+            "factor": 1,
+            "make": "Flic Film",
+            "type": 1,
+            "iso": 200,
+            "whiteBalance": 1
+        },
+        {
+            "id": 212,
+            "longname": "Ultrapan 400",
+            "shortname": "FLUP400",
+            "factor": 1,
+            "make": "Flic Film",
+            "type": 1,
+            "iso": 400,
+            "whiteBalance": 1
+        },
+        {
+            "id": 213,
+            "longname": "Ultrapan 18",
+            "shortname": "FLUP18",
+            "factor": 1,
+            "make": "Flic Film",
+            "type": 1,
+            "iso": 400,
+            "whiteBalance": 1
+        },
+        {
+            "id": 214,
+            "longname": "ATM 400",
+            "shortname": "FLATM4",
+            "factor": 1,
+            "make": "Flic Film",
+            "type": 1,
+            "iso": 400,
+            "whiteBalance": 1
+        },
+        {
+            "id": 215,
+            "longname": "MTN 100",
+            "shortname": "FLMTN1",
+            "factor": 1,
+            "make": "Flic Film",
+            "type": 1,
+            "iso": 100,
+            "whiteBalance": 1
+        },
+        {
+            "id": 216,
+            "longname": "Wolfen 100",
+            "shortname": "FLWLF100",
+            "factor": 1,
+            "make": "Flic Film",
+            "type": 1,
+            "iso": 100,
+            "whiteBalance": 1
+        },
+        {
+            "id": 217,
+            "longname": "XX - 250",
+            "shortname": "FLXX250",
+            "factor": 1,
+            "make": "Flic Film",
+            "type": 1,
+            "iso": 250,
+            "whiteBalance": 1
+        },
+        {
+            "id": 218,
+            "longname": "Ultrafine Xtreme UXF 100",
+            "shortname": "FLUXF10",
+            "factor": 1,
+            "make": "Flic Film",
+            "type": 1,
+            "iso": 100,
+            "whiteBalance": 1
+        },
+        {
+            "id": 219,
+            "longname": "Ultrafine Xtreme UXF 400",
+            "shortname": "FLUX400",
+            "factor": 1,
+            "make": "Flic Film",
+            "type": 1,
+            "iso": 400,
+            "whiteBalance": 1
+        },
+        {
+            "id": 221,
+            "longname": "REVOLOG KOLOR 400",
+            "shortname": "RVKL400",
+            "factor": 1,
+            "make": "Revolog",
+            "type": 2,
+            "iso": 400,
+            "whiteBalance": 1
+        },
+        {
+            "id": 222,
+            "longname": "REVOLOG KOSMOS 400",
+            "shortname": "RVKS400",
+            "factor": 1,
+            "make": "Revolog",
+            "type": 2,
+            "iso": 400,
+            "whiteBalance": 1
+        },
+        {
+            "id": 223,
+            "longname": "REVOLOG ECHO 400",
+            "shortname": "RVEC400",
+            "factor": 1,
+            "make": "Revolog",
+            "type": 2,
+            "iso": 400,
+            "whiteBalance": 1
+        }
 ]
