@@ -1590,8 +1590,8 @@
     ,
     {
         "id": 153,
-        "longname": "SHD 400",
-        "shortname": "LUCKY",
+        "longname": "LUCKY SHD 400",
+        "shortname": "LSHD400",
         "factor": 1,
         "make": "Lucky",
         "type": 1,
@@ -2329,5 +2329,49 @@
             "type": 2,
             "iso": 400,
             "whiteBalance": 1
-        }
+        },
+            {
+                "id": 224,
+                "longname": "LUCKY SHD 100",
+                "shortname": "LSHD100",
+                "factor": 1,
+                "make": "Lucky",
+                "type": 1,
+                "iso": 100,
+                "whiteBalance": 1
+            },
+            
+            {
+                "id": 225,
+                "longname": "LUCKY SUPER 200",
+                "shortname": "LSUP200",
+                "factor": 1,
+                "make": "Lucky",
+                "type": 2,
+                "iso": 200,
+                "whiteBalance": 1
+            },
+            {
+                "id": 226,
+                "longname": "LUCKY SUPER 100",
+                "shortname": "LSUP100",
+                "factor": 1,
+                "make": "Lucky",
+                "type": 2,
+                "iso": 100,
+                "whiteBalance": 1
+            },
+            
+            {
+                "id": 227,
+                "longname": "LUCKY COLOR 200",
+                "shortname": "LC200",
+                "factor": 1,
+                "make": "Lucky",
+                "type": 2,
+                "iso": 200,
+                "whiteBalance": 1
+            }
+        
+
 ]
