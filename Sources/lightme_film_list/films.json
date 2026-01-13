@@ -7,7 +7,7 @@
         "make": "None",
         "type": 0,
         "iso": 400,
-        "whiteBalance":1
+        "whiteBalance": 1
     },
     {
         "id": 1,
@@ -17,7 +17,7 @@
         "make": "Ilford",
         "type": 1,
         "iso": 400,
-        "whiteBalance":1
+        "whiteBalance": 1
     },
     {
         "id": 2,
@@ -27,7 +27,7 @@
         "make": "Ilford",
         "type": 1,
         "iso": 200,
-        "whiteBalance":1
+        "whiteBalance": 1
     },
     {
         "id": 3,
@@ -37,7 +37,7 @@
         "make": "Ilford",
         "type": 1,
         "iso": 50,
-        "whiteBalance":1
+        "whiteBalance": 1
     },
     {
         "id": 4,
@@ -47,7 +47,7 @@
         "make": "Ilford",
         "type": 1,
         "iso": 100,
-        "whiteBalance":1
+        "whiteBalance": 1
     },
     {
         "id": 5,
@@ -57,7 +57,7 @@
         "make": "Ilford",
         "type": 1,
         "iso": 400,
-        "whiteBalance":1
+        "whiteBalance": 1
     },
     {
         "id": 6,
@@ -67,7 +67,7 @@
         "make": "Ilford",
         "type": 1,
         "iso": 3200,
-        "whiteBalance":1
+        "whiteBalance": 1
     },
     {
         "id": 7,
@@ -77,7 +77,7 @@
         "make": "Ilford",
         "type": 1,
         "iso": 125,
-        "whiteBalance":1
+        "whiteBalance": 1
     },
     {
         "id": 8,
@@ -87,7 +87,7 @@
         "make": "Ilford",
         "type": 1,
         "iso": 400,
-        "whiteBalance":1
+        "whiteBalance": 1
     },
     {
         "id": 9,
@@ -97,7 +97,7 @@
         "make": "Kodak",
         "type": 1,
         "iso": 400,
-        "whiteBalance":1
+        "whiteBalance": 1
     },
     {
         "id": 10,
@@ -107,7 +107,7 @@
         "make": "Kodak",
         "type": 1,
         "iso": 100,
-        "whiteBalance":1
+        "whiteBalance": 1
     },
     {
         "id": 11,
@@ -117,7 +117,7 @@
         "make": "Kodak",
         "type": 1,
         "iso": 400,
-        "whiteBalance":1
+        "whiteBalance": 1
     },
     {
         "id": 12,
@@ -127,7 +127,7 @@
         "make": "Fujifilm",
         "type": 1,
         "iso": 100,
-        "whiteBalance":1
+        "whiteBalance": 1
     },
     {
         "id": 13,
@@ -137,7 +137,7 @@
         "make": "Agfa",
         "type": 1,
         "iso": 100,
-        "whiteBalance":1
+        "whiteBalance": 1
     },
     {
         "id": 14,
@@ -147,7 +147,7 @@
         "make": "Agfa",
         "type": 1,
         "iso": 400,
-        "whiteBalance":1
+        "whiteBalance": 1
     },
     {
         "id": 15,
@@ -157,7 +157,7 @@
         "make": "Kodak",
         "type": 2,
         "iso": 160,
-        "whiteBalance":1
+        "whiteBalance": 1
     },
     {
         "id": 16,
@@ -167,7 +167,7 @@
         "make": "Kodak",
         "type": 2,
         "iso": 400,
-        "whiteBalance":1
+        "whiteBalance": 1
     },
     {
         "id": 17,
@@ -177,7 +177,7 @@
         "make": "Fujifilm",
         "type": 2,
         "iso": 400,
-        "whiteBalance":1
+        "whiteBalance": 1
     },
     {
         "id": 18,
@@ -187,7 +187,7 @@
         "make": "Fujifilm",
         "type": 2,
         "iso": 100,
-        "whiteBalance":1
+        "whiteBalance": 1
     },
     {
         "id": 19,
@@ -197,7 +197,7 @@
         "make": "Fujifilm",
         "type": 2,
         "iso": 200,
-        "whiteBalance":1
+        "whiteBalance": 1
     },
     {
         "id": 20,
@@ -207,7 +207,7 @@
         "make": "Fujifilm",
         "type": 2,
         "iso": 400,
-        "whiteBalance":1
+        "whiteBalance": 1
     },
     {
         "id": 21,
@@ -217,7 +217,7 @@
         "make": "Fujifilm",
         "type": 3,
         "iso": 50,
-        "whiteBalance":1
+        "whiteBalance": 1
     },
     {
         "id": 22,
@@ -227,7 +227,7 @@
         "make": "Fujifilm",
         "type": 2,
         "iso": 100,
-        "whiteBalance":1
+        "whiteBalance": 1
     },
     {
         "id": 23,
@@ -237,7 +237,7 @@
         "make": "Kodak",
         "type": 2,
         "iso": 100,
-        "whiteBalance":1
+        "whiteBalance": 1
     },
     {
         "id": 24,
@@ -247,7 +247,7 @@
         "make": "Fujifilm",
         "type": 2,
         "iso": 200,
-        "whiteBalance":1
+        "whiteBalance": 1
     },
     {
         "id": 25,
@@ -257,7 +257,7 @@
         "make": "Foma",
         "type": 1,
         "iso": 100,
-        "whiteBalance":1
+        "whiteBalance": 1
     },
     {
         "id": 26,
@@ -267,7 +267,7 @@
         "make": "Foma",
         "type": 1,
         "iso": 200,
-        "whiteBalance":1
+        "whiteBalance": 1
     },
     {
         "id": 27,
@@ -277,7 +277,7 @@
         "make": "Foma",
         "type": 1,
         "iso": 400,
-        "whiteBalance":1
+        "whiteBalance": 1
     },
     {
         "id": 28,
@@ -287,7 +287,7 @@
         "make": "Bergger",
         "type": 1,
         "iso": 400,
-        "whiteBalance":1
+        "whiteBalance": 1
     },
     {
         "id": 29,
@@ -297,7 +297,7 @@
         "make": "CineStill",
         "type": 1,
         "iso": 250,
-        "whiteBalance":1
+        "whiteBalance": 1
     },
     {
         "id": 30,
@@ -307,7 +307,7 @@
         "make": "CineStill",
         "type": 2,
         "iso": 50,
-        "whiteBalance":1
+        "whiteBalance": 1
     },
     {
         "id": 31,
@@ -317,7 +317,7 @@
         "make": "CineStill",
         "type": 2,
         "iso": 800,
-        "whiteBalance":2
+        "whiteBalance": 2
     },
     {
         "id": 32,
@@ -327,7 +327,7 @@
         "make": "Ferrania",
         "type": 1,
         "iso": 80,
-        "whiteBalance":1
+        "whiteBalance": 1
     },
     {
         "id": 33,
@@ -337,7 +337,7 @@
         "make": "Foma",
         "type": 1,
         "iso": 320,
-        "whiteBalance":1
+        "whiteBalance": 1
     },
     {
         "id": 34,
@@ -347,7 +347,7 @@
         "make": "Foma",
         "type": 4,
         "iso": 100,
-        "whiteBalance":1
+        "whiteBalance": 1
     },
     {
         "id": 35,
@@ -357,7 +357,7 @@
         "make": "Fujifilm",
         "type": 2,
         "iso": 100,
-        "whiteBalance":1
+        "whiteBalance": 1
     },
     {
         "id": 36,
@@ -367,7 +367,7 @@
         "make": "Fujifilm",
         "type": 2,
         "iso": 400,
-        "whiteBalance":1
+        "whiteBalance": 1
     },
     {
         "id": 37,
@@ -377,7 +377,7 @@
         "make": "Fujifilm",
         "type": 2,
         "iso": 160,
-        "whiteBalance":1
+        "whiteBalance": 1
     },
     {
         "id": 38,
@@ -387,7 +387,7 @@
         "make": "Fujifilm",
         "type": 3,
         "iso": 100,
-        "whiteBalance":1
+        "whiteBalance": 1
     },
     {
         "id": 39,
@@ -397,7 +397,7 @@
         "make": "Ilford",
         "type": 1,
         "iso": 100,
-        "whiteBalance":1
+        "whiteBalance": 1
     },
     {
         "id": 40,
@@ -407,7 +407,7 @@
         "make": "Ilford",
         "type": 1,
         "iso": 400,
-        "whiteBalance":1
+        "whiteBalance": 1
     },
     {
         "id": 41,
@@ -417,7 +417,7 @@
         "make": "JCH",
         "type": 1,
         "iso": 400,
-        "whiteBalance":1
+        "whiteBalance": 1
     },
     {
         "id": 42,
@@ -427,7 +427,7 @@
         "make": "Kodak",
         "type": 1,
         "iso": 800,
-        "whiteBalance":1
+        "whiteBalance": 1
     },
     {
         "id": 43,
@@ -437,7 +437,7 @@
         "make": "Kodak",
         "type": 2,
         "iso": 200,
-        "whiteBalance":1
+        "whiteBalance": 1
     },
     {
         "id": 44,
@@ -447,7 +447,7 @@
         "make": "Kodak",
         "type": 2,
         "iso": 100,
-        "whiteBalance":1
+        "whiteBalance": 1
     },
     {
         "id": 45,
@@ -457,7 +457,7 @@
         "make": "Kodak",
         "type": 2,
         "iso": 200,
-        "whiteBalance":1
+        "whiteBalance": 1
     },
     {
         "id": 46,
@@ -467,7 +467,7 @@
         "make": "Kodak",
         "type": 2,
         "iso": 400,
-        "whiteBalance":1
+        "whiteBalance": 1
     },
     {
         "id": 47,
@@ -477,7 +477,7 @@
         "make": "Kodak",
         "type": 2,
         "iso": 800,
-        "whiteBalance":1
+        "whiteBalance": 1
     },
     {
         "id": 48,
@@ -487,7 +487,7 @@
         "make": "Kodak",
         "type": 3,
         "iso": 100,
-        "whiteBalance":1
+        "whiteBalance": 1
     },
     {
         "id": 49,
@@ -497,7 +497,7 @@
         "make": "Lomography",
         "type": 1,
         "iso": 8,
-        "whiteBalance":1
+        "whiteBalance": 1
     },
     {
         "id": 50,
@@ -507,7 +507,7 @@
         "make": "Lomography",
         "type": 1,
         "iso": 13,
-        "whiteBalance":1
+        "whiteBalance": 1
     },
     {
         "id": 51,
@@ -517,7 +517,7 @@
         "make": "Lomography",
         "type": 1,
         "iso": 400,
-        "whiteBalance":1
+        "whiteBalance": 1
     },
     {
         "id": 52,
@@ -527,7 +527,7 @@
         "make": "Lomography",
         "type": 1,
         "iso": 200,
-        "whiteBalance":1
+        "whiteBalance": 1
     },
     {
         "id": 53,
@@ -537,7 +537,7 @@
         "make": "Lomography",
         "type": 1,
         "iso": 400,
-        "whiteBalance":1
+        "whiteBalance": 1
     },
     {
         "id": 54,
@@ -547,7 +547,7 @@
         "make": "Lomography",
         "type": 1,
         "iso": 100,
-        "whiteBalance":1
+        "whiteBalance": 1
     },
     {
         "id": 55,
@@ -557,7 +557,7 @@
         "make": "Lomography",
         "type": 1,
         "iso": 400,
-        "whiteBalance":1
+        "whiteBalance": 1
     },
     {
         "id": 56,
@@ -567,7 +567,7 @@
         "make": "Lomography",
         "type": 2,
         "iso": 100,
-        "whiteBalance":1
+        "whiteBalance": 1
     },
     {
         "id": 57,
@@ -577,7 +577,7 @@
         "make": "Lomography",
         "type": 2,
         "iso": 200,
-        "whiteBalance":1
+        "whiteBalance": 1
     },
     {
         "id": 58,
@@ -587,7 +587,7 @@
         "make": "Lomography",
         "type": 2,
         "iso": 400,
-        "whiteBalance":1
+        "whiteBalance": 1
     },
     {
         "id": 59,
@@ -597,7 +597,7 @@
         "make": "Lomography",
         "type": 2,
         "iso": 800,
-        "whiteBalance":1
+        "whiteBalance": 1
     },
     {
         "id": 60,
@@ -607,7 +607,7 @@
         "make": "Lomography",
         "type": 2,
         "iso": 200,
-        "whiteBalance":1
+        "whiteBalance": 1
     },
     {
         "id": 61,
@@ -617,7 +617,7 @@
         "make": "Lomography",
         "type": 2,
         "iso": 400,
-        "whiteBalance":1
+        "whiteBalance": 1
     },
     {
         "id": 62,
@@ -627,7 +627,7 @@
         "make": "Lomography",
         "type": 2,
         "iso": 400,
-        "whiteBalance":1
+        "whiteBalance": 1
     },
     {
         "id": 63,
@@ -637,7 +637,7 @@
         "make": "Lomography",
         "type": 2,
         "iso": 200,
-        "whiteBalance":1
+        "whiteBalance": 1
     },
     {
         "id": 64,
@@ -647,7 +647,7 @@
         "make": "Lomography",
         "type": 3,
         "iso": 200,
-        "whiteBalance":1
+        "whiteBalance": 1
     },
     {
         "id": 65,
@@ -657,7 +657,7 @@
         "make": "Lomography",
         "type": 3,
         "iso": 200,
-        "whiteBalance":1
+        "whiteBalance": 1
     },
     {
         "id": 66,
@@ -667,7 +667,7 @@
         "make": "Rollei",
         "type": 1,
         "iso": 25,
-        "whiteBalance":1
+        "whiteBalance": 1
     },
     {
         "id": 67,
@@ -677,7 +677,7 @@
         "make": "Rollei",
         "type": 1,
         "iso": 100,
-        "whiteBalance":1
+        "whiteBalance": 1
     },
     {
         "id": 68,
@@ -687,7 +687,7 @@
         "make": "Rollei",
         "type": 1,
         "iso": 400,
-        "whiteBalance":1
+        "whiteBalance": 1
     },
     {
         "id": 69,
@@ -697,7 +697,7 @@
         "make": "Rollei",
         "type": 1,
         "iso": 25,
-        "whiteBalance":1
+        "whiteBalance": 1
     },
     {
         "id": 70,
@@ -707,7 +707,7 @@
         "make": "Rollei",
         "type": 1,
         "iso": 80,
-        "whiteBalance":1
+        "whiteBalance": 1
     },
     {
         "id": 71,
@@ -717,7 +717,7 @@
         "make": "Rollei",
         "type": 1,
         "iso": 200,
-        "whiteBalance":1
+        "whiteBalance": 1
     },
     {
         "id": 72,
@@ -727,7 +727,7 @@
         "make": "Rollei",
         "type": 1,
         "iso": 400,
-        "whiteBalance":1
+        "whiteBalance": 1
     },
     {
         "id": 73,
@@ -737,7 +737,7 @@
         "make": "Rollei",
         "type": 1,
         "iso": 400,
-        "whiteBalance":1
+        "whiteBalance": 1
     },
     {
         "id": 74,
@@ -747,7 +747,7 @@
         "make": "Rollei",
         "type": 1,
         "iso": 100,
-        "whiteBalance":1
+        "whiteBalance": 1
     },
     {
         "id": 75,
@@ -757,7 +757,7 @@
         "make": "Rollei",
         "type": 2,
         "iso": 400,
-        "whiteBalance":1
+        "whiteBalance": 1
     },
     {
         "id": 76,
@@ -767,7 +767,7 @@
         "make": "Rollei",
         "type": 3,
         "iso": 200,
-        "whiteBalance":1
+        "whiteBalance": 1
     },
     {
         "id": 77,
@@ -777,7 +777,7 @@
         "make": "Kodak",
         "type": 2,
         "iso": 500,
-        "whiteBalance":2
+        "whiteBalance": 2
     },
     {
         "id": 78,
@@ -787,7 +787,7 @@
         "make": "Kodak",
         "type": 2,
         "iso": 250,
-        "whiteBalance":1
+        "whiteBalance": 1
     },
     {
         "id": 79,
@@ -797,7 +797,7 @@
         "make": "Kodak",
         "type": 2,
         "iso": 200,
-        "whiteBalance":2
+        "whiteBalance": 2
     },
     {
         "id": 80,
@@ -807,7 +807,7 @@
         "make": "Kodak",
         "type": 2,
         "iso": 50,
-        "whiteBalance":1
+        "whiteBalance": 1
     }
     ,
     {
@@ -818,7 +818,7 @@
         "make": "ADOX",
         "type": 1,
         "iso": 100,
-        "whiteBalance":1
+        "whiteBalance": 1
     }
     ,
     {
@@ -829,7 +829,7 @@
         "make": "ADOX",
         "type": 1,
         "iso": 50,
-        "whiteBalance":1
+        "whiteBalance": 1
     },
     {
         "id": 83,
@@ -839,7 +839,7 @@
         "make": "ADOX",
         "type": 1,
         "iso": 20,
-        "whiteBalance":1
+        "whiteBalance": 1
     },
     {
         "id": 84,
@@ -849,7 +849,7 @@
         "make": "ADOX",
         "type": 4,
         "iso": 50,
-        "whiteBalance":1
+        "whiteBalance": 1
     },
     {
         "id": 85,
@@ -859,7 +859,7 @@
         "make": "ADOX",
         "type": 4,
         "iso": 160,
-        "whiteBalance":1
+        "whiteBalance": 1
     }
     ,
     {
@@ -870,7 +870,7 @@
         "make": "ADOX",
         "type": 4,
         "iso": 100,
-        "whiteBalance":1
+        "whiteBalance": 1
     },
     {
         "id": 87,
@@ -880,7 +880,7 @@
         "make": "Ilford",
         "type": 1,
         "iso": 80,
-        "whiteBalance":1
+        "whiteBalance": 1
     }
     ,
     {
@@ -891,7 +891,7 @@
         "make": "ADOX",
         "type": 2,
         "iso": 200,
-        "whiteBalance":1
+        "whiteBalance": 1
     }
     ,
     {
@@ -902,7 +902,7 @@
         "make": "CineStill",
         "type": 2,
         "iso": 400,
-        "whiteBalance":1
+        "whiteBalance": 1
     }
     ,
     {
@@ -913,7 +913,7 @@
         "make": "CineStill",
         "type": 2,
         "iso": 200,
-        "whiteBalance":1
+        "whiteBalance": 1
     }
     ,
     {
@@ -924,7 +924,7 @@
         "make": "Fujifilm",
         "type": 2,
         "iso": 200,
-        "whiteBalance":1
+        "whiteBalance": 1
     }
     ,
     {
@@ -935,7 +935,7 @@
         "make": "CatLABS",
         "type": 1,
         "iso": 80,
-        "whiteBalance":1
+        "whiteBalance": 1
     }
     ,
     {
@@ -946,7 +946,7 @@
         "make": "CatLABS",
         "type": 1,
         "iso": 320,
-        "whiteBalance":1
+        "whiteBalance": 1
     }
     ,
     {
@@ -957,7 +957,7 @@
         "make": "CatLABS",
         "type": 1,
         "iso": 320,
-        "whiteBalance":1
+        "whiteBalance": 1
     }
     ,
     {
@@ -968,7 +968,7 @@
         "make": "Ferrania",
         "type": 1,
         "iso": 50,
-        "whiteBalance":1
+        "whiteBalance": 1
     }, {
         "id": 96,
         "longname": "400 Color Negative Film",
@@ -977,7 +977,7 @@
         "make": "Fujifilm",
         "type": 2,
         "iso": 400,
-        "whiteBalance":1
+        "whiteBalance": 1
     },
     {
         "id": 97,
@@ -987,7 +987,7 @@
         "make": "Holga",
         "type": 1,
         "iso": 400,
-        "whiteBalance":1
+        "whiteBalance": 1
     },
     {
         "id": 98,
@@ -997,7 +997,7 @@
         "make": "Ilford",
         "type": 2,
         "iso": 400,
-        "whiteBalance":1
+        "whiteBalance": 1
     }
     ,
     {
@@ -1008,7 +1008,7 @@
         "make": "Kentmere",
         "type": 1,
         "iso": 100,
-        "whiteBalance":1
+        "whiteBalance": 1
     }
     ,
     {
@@ -1019,7 +1019,7 @@
         "make": "Kentmere",
         "type": 1,
         "iso": 400,
-        "whiteBalance":1
+        "whiteBalance": 1
     }
     ,
     {
@@ -1030,7 +1030,7 @@
         "make": "Foma",
         "type": 1,
         "iso": 400,
-        "whiteBalance":1
+        "whiteBalance": 1
     }
     ,
     {
@@ -1041,7 +1041,7 @@
         "make": "Harman",
         "type": 2,
         "iso": 200,
-        "whiteBalance":1
+        "whiteBalance": 1
     },
     {
         "id": 103,
@@ -1051,7 +1051,7 @@
         "make": "Ferrania",
         "type": 1,
         "iso": 160,
-        "whiteBalance":1
+        "whiteBalance": 1
     },
     {
         "id": 104,
@@ -1061,7 +1061,7 @@
         "make": "Agfa",
         "type": 1,
         "iso": 50,
-        "whiteBalance":1
+        "whiteBalance": 1
     },
     {
         "id": 105,
@@ -1071,7 +1071,7 @@
         "make": "ADOX",
         "type": 2,
         "iso": 3,
-        "whiteBalance":1
+        "whiteBalance": 1
     }
     ,
     {
@@ -1082,7 +1082,7 @@
         "make": "CatLABS",
         "type": 1,
         "iso": 80,
-        "whiteBalance":1
+        "whiteBalance": 1
     }
     ,
     {
@@ -1093,7 +1093,7 @@
         "make": "CatLABS",
         "type": 1,
         "iso": 320,
-        "whiteBalance":1
+        "whiteBalance": 1
     }
     ,
     {
@@ -1104,7 +1104,7 @@
         "make": "CatLABS",
         "type": 1,
         "iso": 320,
-        "whiteBalance":1
+        "whiteBalance": 1
     }
     ,
     {
@@ -1115,7 +1115,7 @@
         "make": "dubblefilm",
         "type": 1,
         "iso": 400,
-        "whiteBalance":1
+        "whiteBalance": 1
     }
     ,
     {
@@ -1126,7 +1126,7 @@
         "make": "dubblefilm",
         "type": 2,
         "iso": 200,
-        "whiteBalance":1
+        "whiteBalance": 1
     }
     ,
     {
@@ -1137,7 +1137,7 @@
         "make": "dubblefilm",
         "type": 2,
         "iso": 200,
-        "whiteBalance":1
+        "whiteBalance": 1
     }
     ,
     {
@@ -1148,7 +1148,7 @@
         "make": "dubblefilm",
         "type": 2,
         "iso": 200,
-        "whiteBalance":1
+        "whiteBalance": 1
     }
     ,
     {
@@ -1159,7 +1159,7 @@
         "make": "dubblefilm",
         "type": 2,
         "iso": 200,
-        "whiteBalance":1
+        "whiteBalance": 1
     }
     ,
     {
@@ -1170,7 +1170,7 @@
         "make": "dubblefilm",
         "type": 2,
         "iso": 200,
-        "whiteBalance":1
+        "whiteBalance": 1
     }
     ,
     {
@@ -1181,7 +1181,7 @@
         "make": "dubblefilm",
         "type": 2,
         "iso": 200,
-        "whiteBalance":1
+        "whiteBalance": 1
     }
     ,
     {
@@ -1192,7 +1192,7 @@
         "make": "dubblefilm",
         "type": 2,
         "iso": 400,
-        "whiteBalance":1
+        "whiteBalance": 1
     }
     ,
     {
@@ -1203,7 +1203,7 @@
         "make": "Film Washi",
         "type": 1,
         "iso": 100,
-        "whiteBalance":1
+        "whiteBalance": 1
     }
     ,
     {
@@ -1214,7 +1214,7 @@
         "make": "Film Washi",
         "type": 1,
         "iso": 100,
-        "whiteBalance":1
+        "whiteBalance": 1
     }
     ,
     {
@@ -1225,7 +1225,7 @@
         "make": "Film Washi",
         "type": 1,
         "iso": 100,
-        "whiteBalance":1
+        "whiteBalance": 1
     }
     ,
     {
@@ -1236,7 +1236,7 @@
         "make": "Film Washi",
         "type": 1,
         "iso": 25,
-        "whiteBalance":1
+        "whiteBalance": 1
     }
     ,
     {
@@ -1247,7 +1247,7 @@
         "make": "Film Washi",
         "type": 1,
         "iso": 100,
-        "whiteBalance":1
+        "whiteBalance": 1
     }
     ,
     {
@@ -1258,7 +1258,7 @@
         "make": "Film Washi",
         "type": 1,
         "iso": 400,
-        "whiteBalance":1
+        "whiteBalance": 1
     },
     {
         "id": 123,
@@ -1268,7 +1268,7 @@
         "make": "Oriental",
         "type": 1,
         "iso": 100,
-        "whiteBalance":1
+        "whiteBalance": 1
     }
     ,
     {
@@ -1279,7 +1279,7 @@
         "make": "Oriental",
         "type": 1,
         "iso": 400,
-        "whiteBalance":1
+        "whiteBalance": 1
     }
     ,
     {
@@ -1290,7 +1290,7 @@
         "make": "ORWO",
         "type": 2,
         "iso": 400,
-        "whiteBalance":1
+        "whiteBalance": 1
     }
     ,
     {
@@ -1301,7 +1301,7 @@
         "make": "ORWO",
         "type": 1,
         "iso": 100,
-        "whiteBalance":1
+        "whiteBalance": 1
     }
     ,
     {
@@ -1312,7 +1312,7 @@
         "make": "ORWO",
         "type": 1,
         "iso": 100,
-        "whiteBalance":1
+        "whiteBalance": 1
     }
     ,
     {
@@ -1323,7 +1323,7 @@
         "make": "ORWO",
         "type": 1,
         "iso": 400,
-        "whiteBalance":1
+        "whiteBalance": 1
     }
     ,
     {
@@ -1334,7 +1334,7 @@
         "make": "Rera",
         "type": 1,
         "iso": 100,
-        "whiteBalance":1
+        "whiteBalance": 1
     }
     ,
     {
@@ -1345,7 +1345,7 @@
         "make": "Rera",
         "type": 1,
         "iso": 400,
-        "whiteBalance":1
+        "whiteBalance": 1
     }
     ,
     {
@@ -1356,7 +1356,7 @@
         "make": "Rera",
         "type": 2,
         "iso": 100,
-        "whiteBalance":1
+        "whiteBalance": 1
     }
     ,
     {
@@ -1367,7 +1367,7 @@
         "make": "Rera",
         "type": 3,
         "iso": 100,
-        "whiteBalance":1
+        "whiteBalance": 1
     }
     ,
     {
@@ -1378,7 +1378,7 @@
         "make": "Shanghai",
         "type": 1,
         "iso": 100,
-        "whiteBalance":1
+        "whiteBalance": 1
     }
     ,
     {
@@ -1389,7 +1389,7 @@
         "make": "Shanghai",
         "type": 1,
         "iso": 400,
-        "whiteBalance":1
+        "whiteBalance": 1
     }
     ,
     {
@@ -1400,7 +1400,7 @@
         "make": "CANDIDO",
         "type": 2,
         "iso": 200,
-        "whiteBalance":1
+        "whiteBalance": 1
     }
     ,
     {
@@ -1411,7 +1411,7 @@
         "make": "CANDIDO",
         "type": 2,
         "iso": 400,
-        "whiteBalance":1
+        "whiteBalance": 1
     }
     ,
     {
@@ -1422,7 +1422,7 @@
         "make": "CANDIDO",
         "type": 2,
         "iso": 800,
-        "whiteBalance":1
+        "whiteBalance": 1
     },
     {
         "id": 138,
@@ -1432,7 +1432,7 @@
         "make": "Kodak",
         "type": 2,
         "iso": 125,
-        "whiteBalance":1
+        "whiteBalance": 1
     }
     ,
     {
@@ -1443,7 +1443,7 @@
         "make": "Kodak",
         "type": 2,
         "iso": 100,
-        "whiteBalance":1
+        "whiteBalance": 1
     },
     {
         "id": 140,
@@ -1453,7 +1453,7 @@
         "make": "Lomography",
         "type": 2,
         "iso": 400,
-        "whiteBalance":1
+        "whiteBalance": 1
     }
     ,
     {
@@ -1464,7 +1464,7 @@
         "make": "KONO!",
         "type": 1,
         "iso": 64,
-        "whiteBalance":1
+        "whiteBalance": 1
     }
     ,
     {
@@ -1475,7 +1475,7 @@
         "make": "KONO!",
         "type": 1,
         "iso": 100,
-        "whiteBalance":1
+        "whiteBalance": 1
     }
     ,
     {
@@ -1486,7 +1486,7 @@
         "make": "KONO!",
         "type": 2,
         "iso": 6,
-        "whiteBalance":1
+        "whiteBalance": 1
     }
     ,
     {
@@ -1497,7 +1497,7 @@
         "make": "KONO!",
         "type": 2,
         "iso": 125,
-        "whiteBalance":2
+        "whiteBalance": 2
     }
     ,
     {
@@ -1508,7 +1508,7 @@
         "make": "KONO!",
         "type": 2,
         "iso": 400,
-        "whiteBalance":2
+        "whiteBalance": 2
     }
     ,
     {
@@ -1519,7 +1519,7 @@
         "make": "KONO!",
         "type": 2,
         "iso": 400,
-        "whiteBalance":1
+        "whiteBalance": 1
     }
     ,
     {
@@ -1530,7 +1530,7 @@
         "make": "KONO!",
         "type": 2,
         "iso": 200,
-        "whiteBalance":1
+        "whiteBalance": 1
     }
     ,
     {
@@ -1541,7 +1541,7 @@
         "make": "KONO!",
         "type": 2,
         "iso": 200,
-        "whiteBalance":1
+        "whiteBalance": 1
     }
     ,
     {
@@ -1552,7 +1552,7 @@
         "make": "KONO!",
         "type": 2,
         "iso": 200,
-        "whiteBalance":1
+        "whiteBalance": 1
     }
     ,
     {
@@ -1563,7 +1563,7 @@
         "make": "KONO!",
         "type": 2,
         "iso": 200,
-        "whiteBalance":1
+        "whiteBalance": 1
     }
     ,
     {
@@ -1574,7 +1574,7 @@
         "make": "KONO!",
         "type": 2,
         "iso": 200,
-        "whiteBalance":1
+        "whiteBalance": 1
     }
     ,
     {
@@ -1585,7 +1585,7 @@
         "make": "KONO!",
         "type": 2,
         "iso": 200,
-        "whiteBalance":1
+        "whiteBalance": 1
     }
     ,
     {
@@ -1596,782 +1596,778 @@
         "make": "Lucky",
         "type": 1,
         "iso": 400,
-        "whiteBalance":1
+        "whiteBalance": 1
     },
 
-        {
-            "id": 154,
-            "longname": "i-Type Color Instant Film",
-            "shortname": "ITYPEC",
-            "factor": 1,
-            "make": "Polaroid",
-            "type": 5,
-            "iso": 640,
-            "whiteBalance": 1
-        },
-        {
-            "id": 155,
-            "longname": "i-Type B&W Instant Film",
-            "shortname": "ITYPE-BW",
-            "factor": 1,
-            "make": "Polaroid",
-            "type": 6,
-            "iso": 640,
-            "whiteBalance": 1
-        },
-        {
-            "id": 156,
-            "longname": "600 Color Instant Film",
-            "shortname": "P600C",
-            "factor": 1,
-            "make": "Polaroid",
-            "type": 5,
-            "iso": 640,
-            "whiteBalance": 1
-        },
-        {
-            "id": 157,
-            "longname": "600 B&W Instant Film",
-            "shortname": "P600BW",
-            "factor": 1,
-            "make": "Polaroid",
-            "type": 6,
-            "iso": 640,
-            "whiteBalance": 1
-        },
-        {
-            "id": 158,
-            "longname": "SX-70 Color Instant Film",
-            "shortname": "SX70C",
-            "factor": 1,
-            "make": "Polaroid",
-            "type": 5,
-            "iso": 160,
-            "whiteBalance": 1
-        },
-        {
-            "id": 159,
-            "longname": "SX-70 B&W Instant Film",
-            "shortname": "SX70-BW",
-            "factor": 1,
-            "make": "Polaroid",
-            "type": 6,
-            "iso": 160,
-            "whiteBalance": 1
-        },
-        {
-            "id": 160,
-            "longname": "Go Color Instant Film",
-            "shortname": "PGOC",
-            "factor": 1,
-            "make": "Polaroid",
-            "type": 5,
-            "iso": 640,
-            "whiteBalance": 1
-        },
-        {
-            "id": 161,
-            "longname": "Instax Mini Color Film",
-            "shortname": "MINIC",
-            "factor": 1,
-            "make": "Fujifilm",
-            "type": 5,
-            "iso": 800,
-            "whiteBalance": 1
-        },
-        {
-            "id": 162,
-            "longname": "Instax Mini Monochrome Film",
-            "shortname": "MINIBW",
-            "factor": 1,
-            "make": "Fujifilm",
-            "type": 6,
-            "iso": 800,
-            "whiteBalance": 1
-        },
-        {
-            "id": 163,
-            "longname": "Instax Square White Film",
-            "shortname": "SQC",
-            "factor": 1,
-            "make": "Fujifilm",
-            "type": 5,
-            "iso": 800,
-            "whiteBalance": 1
-        },
-        {
-            "id": 164,
-            "longname": "Instax Wide Color Film",
-            "shortname": "WIDEC",
-            "factor": 1,
-            "make": "Fujifilm",
-            "type": 5,
-            "iso": 800,
-            "whiteBalance": 1
-        },
-        {
-            "id": 165,
-            "longname": "Instax Wide Monochrome Film",
-            "shortname": "WIDEBW",
-            "factor": 1,
-            "make": "Fujifilm",
-            "type": 6,
-            "iso": 800,
-            "whiteBalance": 1
-        },
-        {
-            "id": 166,
-            "longname": "EPT Ektachrome 160T",
-            "shortname": "EKT160",
-            "factor": 1,
-            "make": "Kodak",
-            "type": 3,
-            "iso": 160,
-            "whiteBalance":2
-        }
-        ,
-        {
-            "id": 167,
-            "longname": "PAN 200",
-            "shortname": "KP200",
-            "factor": 1.26,
-            "make": "Kentmere",
-            "type": 1,
-            "iso": 200,
-            "whiteBalance":1
-        }
-        ,
-        {
-            "id": 168,
-            "longname": "Phoenix 200 II",
-            "shortname": "PH200II",
-            "factor": 1.31,
-            "make": "Harman",
-            "type": 2,
-            "iso": 200,
-            "whiteBalance":1
-        }
-        ,{
-            "id": 169,
-            "longname": "TRI-X 320",
-            "shortname": "TXP320",
-            "factor": 1,
-            "make": "Kodak",
-            "type": 1,
-            "iso": 320,
-            "whiteBalance":1
-        }
-        ,
-        {
-            "id": 170,
-            "longname": "Colour 400",
-            "shortname": "AGFC400",
-            "factor": 1,
-            "make": "Agfa",
-            "type": 2,
-            "iso": 400,
-            "whiteBalance":1
-        },
-        {
-            "id": 171,
-            "longname": "Red 125",
-            "shortname": "RED125",
-            "factor": 1,
-            "make": "Harman",
-            "type": 2,
-            "iso": 125,
-            "whiteBalance":1
-        }
-        ,{
-            "id": 172,
-            "longname": "ILFOCOLOR 400 Plus Vintage Tone",
-            "shortname": "IF400+",
-            "factor": 1,
-            "make": "Ilford",
-            "type": 2,
-            "iso": 400,
-            "whiteBalance":1
-        }
-        ,{
-            "id": 173,
-            "longname": "ILFOCOLOR 400 Cine Tone",
-            "shortname": "IF400C",
-            "factor": 1,
-            "make": "Ilford",
-            "type": 2,
-            "iso": 400,
-            "whiteBalance":1
-        }
-        ,
-        {
-            "id": 174,
-            "longname": "ILFOCHROME 100",
-            "shortname": "IFCH100",
-            "factor": 1,
-            "make": "Ilford",
-            "type": 3,
-            "iso": 100,
-            "whiteBalance":1
-        }
-        ,
-        {
-            "id": 175,
-            "longname": "Opticolour 200",
-            "shortname": "OPT200",
-            "factor": 1,
-            "make": "Optik Oldschool",
-            "type": 2,
-            "iso": 200,
-            "whiteBalance":1
-        }
-        ,
-        {
-            "id": 176,
-            "longname": "Photo B&W 100",
-            "shortname": "VBW100",
-            "factor": 1,
-            "make": "Vibe",
-            "type": 1,
-            "iso": 100,
-            "whiteBalance":1
-        }
-        ,{
-            "id": 177,
-            "longname": "Photo B&W 400",
-            "shortname": "VBW400",
-            "factor": 1,
-            "make": "Vibe",
-            "type": 1,
-            "iso": 400,
-            "whiteBalance":1
-        }
-        ,
-        {
-            "id": 178,
-            "longname": "Photo 400",
-            "shortname": "VBC400",
-            "factor": 1,
-            "make": "Vibe",
-            "type": 2,
-            "iso": 400,
-            "whiteBalance":1
-        }
-        ,{
-            "id": 179,
-            "longname": "Photo 800",
-            "shortname": "VBC800",
-            "factor": 1,
-            "make": "Vibe",
-            "type": 2,
-            "iso": 800,
-            "whiteBalance":2
-        }
-        ,
-        {
-            "id": 180,
-            "longname": "T-25",
-            "shortname": "SFLT25",
-            "factor": 1,
-            "make": "Sreda Film Lab",
-            "type": 1,
-            "iso": 125,
-            "whiteBalance":1
-        }
-        ,
-        {
-            "id": 181,
-            "longname": "T-42",
-            "shortname": "SFLT42",
-            "factor": 1,
-            "make": "Sreda Film Lab",
-            "type": 1,
-            "iso": 125,
-            "whiteBalance":1
-        }
-        ,
-        {
-            "id": 182,
-            "longname": "UN54",
-            "shortname": "SFLUN54",
-            "factor": 1,
-            "make": "Sreda Film Lab",
-            "type": 1,
-            "iso": 100,
-            "whiteBalance":1
-        }
-        ,
-        {
-            "id": 183,
-            "longname": "UN75",
-            "shortname": "SFLUN75",
-            "factor": 1,
-            "make": "Sreda Film Lab",
-            "type": 1,
-            "iso": 320,
-            "whiteBalance":1
-        }
-        ,
-        {
-            "id": 184,
-            "longname": "Double-X 5222",
-            "shortname": "SFL5222",
-            "factor": 1,
-            "make": "Sreda Film Lab",
-            "type": 1,
-            "iso": 250,
-            "whiteBalance":1
-        }
-        ,
-        {
-            "id": 185,
-            "longname": "Double-X Aerographic 400",
-            "shortname": "SFLA400",
-            "factor": 1,
-            "make": "Sreda Film Lab",
-            "type": 1,
-            "iso": 400,
-            "whiteBalance":1
-        }
-        ,
-        {
-            "id": 186,
-            "longname": "A-Color 125",
-            "shortname": "SFLC125",
-            "factor": 1,
-            "make": "Sreda Film Lab",
-            "type": 2,
-            "iso": 125,
-            "whiteBalance":1
-        }
-        ,
-        {
-            "id": 187,
-            "longname": "50D",
-            "shortname": "SFL50D",
-            "factor": 1,
-            "make": "Sreda Film Lab",
-            "type": 2,
-            "iso": 50,
-            "whiteBalance":1
-        }
-        ,
-        {
-            "id": 188,
-            "longname": "250D",
-            "shortname": "SFL250D",
-            "factor": 1,
-            "make": "Sreda Film Lab",
-            "type": 2,
-            "iso": 250,
-            "whiteBalance":1
-        }
-        ,
-        {
-            "id": 189,
-            "longname": "200T",
-            "shortname": "SFL200T",
-            "factor": 1,
-            "make": "Sreda Film Lab",
-            "type": 2,
-            "iso": 200,
-            "whiteBalance":2
-        }
-        ,
-        {
-            "id": 190,
-            "longname": "500T",
-            "shortname": "SFL500T",
-            "factor": 1,
-            "make": "Sreda Film Lab",
-            "type": 2,
-            "iso": 500,
-            "whiteBalance":2
-        }
-        ,
-        {
-            "id": 191,
-            "longname": "Aviphot Pan 200",
-            "shortname": "AVI200",
-            "factor": 1,
-            "make": "Agfa",
-            "type": 1,
-            "iso": 200,
-            "whiteBalance":1
-        },
-        {
-            "id": 192,
-            "longname": "Aviphot Pan 80",
-            "shortname": "AVI200",
-            "factor": 1,
-            "make": "Agfa",
-            "type": 1,
-            "iso": 80,
-            "whiteBalance":1
-        },
-        
-        {
-            "id": 193,
-            "longname": "1Hundred",
-            "shortname": "1HUND",
-            "factor": 1,
-            "make": "Hundred film",
-            "type": 2,
-            "iso": 100,
-            "whiteBalance":1
-        },
-        {
-            "id": 194,
-            "longname": "4Hundred",
-            "shortname": "4HUND",
-            "factor": 1,
-            "make": "Hundred film",
-            "type": 2,
-            "iso": 400,
-            "whiteBalance":1
-        },
-        {
-            "id": 195,
-            "longname": "8Hundred",
-            "shortname": "8HUND",
-            "factor": 1,
-            "make": "Hundred film",
-            "type": 2,
-            "iso": 800,
-            "whiteBalance":1
-        }
-        ,
-        {
-            "id": 196,
-            "longname": "MONOPAN 50",
-            "shortname": "LEIM50",
-            "factor": 1.27,
-            "make": "Leica",
-            "type": 1,
-            "iso": 50,
-            "whiteBalance":1
-        },
-        {
-            "id": 197,
-            "longname": "KODACHROME 64",
-            "shortname": "KC64",
-            "factor": 1,
-            "make": "Kodak",
-            "type": 3,
-            "iso": 64,
-            "whiteBalance":1
-        },
-        {
-            "id": 197,
-            "longname": "KODACHROME 25",
-            "shortname": "KC25",
-            "factor": 1,
-            "make": "Kodak",
-            "type": 3,
-            "iso": 25,
-            "whiteBalance":1
-        },
-        {
-            "id": 197,
-            "longname": "KODACHROME 200",
-            "shortname": "KCH200",
-            "factor": 1,
-            "make": "Kodak",
-            "type": 3,
-            "iso": 200,
-            "whiteBalance":1
-        },
-        {
-            "id": 198,
-            "longname": "KODACOLOR 200",
-            "shortname": "KCO200",
-            "factor": 1,
-            "make": "Kodak",
-            "type": 2,
-            "iso": 200,
-            "whiteBalance":1
-        },
-        {
-            "id": 199,
-            "longname": "KODACOLOR 100",
-            "shortname": "KCO100",
-            "factor": 1,
-            "make": "Kodak",
-            "type": 2,
-            "iso": 100,
-            "whiteBalance":1
-        },
-        {
-            "id": 200,
-            "longname": "Aurora 400",
-            "shortname": "FLAUR40",
-            "factor": 1,
-            "make": "Flic Film",
-            "type": 2,
-            "iso": 400,
-            "whiteBalance": 1
-        },
-        {
-            "id": 201,
-            "longname": "Elektra 100",
-            "shortname": "FLEL100",
-            "factor": 1,
-            "make": "Flic Film",
-            "type": 2,
-            "iso": 100,
-            "whiteBalance": 1
-        },
-        {
-            "id": 202,
-            "longname": "Apollo 18",
-            "shortname": "FLAP18",
-            "factor": 1,
-            "make": "Flic Film",
-            "type": 2,
-            "iso": 400,
-            "whiteBalance": 1
-        },
-        {
-            "id": 203,
-            "longname": "Psychedelic 400",
-            "shortname": "FLPS400",
-            "factor": 1,
-            "make": "Flic Film",
-            "type": 2,
-            "iso": 400,
-            "whiteBalance": 1
-        },
-        {
-            "id": 204,
-            "longname": "Street Savvy 400",
-            "shortname": "FLSAV40",
-            "factor": 1,
-            "make": "Flic Film",
-            "type": 2,
-            "iso": 400,
-            "whiteBalance": 1
-        },
-        {
-            "id": 205,
-            "longname": "Cine Colour 500T",
-            "shortname": "FLC500T",
-            "factor": 1,
-            "make": "Flic Film",
-            "type": 2,
-            "iso": 500,
-            "whiteBalance": 2
-        },
-        {
-            "id": 206,
-            "longname": "Cine Colour 200T",
-            "shortname": "FLC200T",
-            "factor": 1,
-            "make": "Flic Film",
-            "type": 2,
-            "iso": 200,
-            "whiteBalance": 2
-        },
-        {
-            "id": 207,
-            "longname": "Cine Colour 250D",
-            "shortname": "FLC250D",
-            "factor": 1,
-            "make": "Flic Film",
-            "type": 2,
-            "iso": 250,
-            "whiteBalance": 1
-        },
-        {
-            "id": 208,
-            "longname": "Cine Colour 50D",
-            "shortname": "FLC50D",
-            "factor": 1,
-            "make": "Flic Film",
-            "type": 2,
-            "iso": 50,
-            "whiteBalance": 1
-        },
-        {
-            "id": 209,
-            "longname": "Chrome 100",
-            "shortname": "FLCH100",
-            "factor": 1,
-            "make": "Flic Film",
-            "type": 3,
-            "iso": 100,
-            "whiteBalance": 1
-        },
-        {
-            "id": 210,
-            "longname": "Ultrapan 100",
-            "shortname": "FLUP100",
-            "factor": 1,
-            "make": "Flic Film",
-            "type": 1,
-            "iso": 100,
-            "whiteBalance": 1
-        },
-        {
-            "id": 211,
-            "longname": "Ultrapan 200",
-            "shortname": "FLUP200",
-            "factor": 1,
-            "make": "Flic Film",
-            "type": 1,
-            "iso": 200,
-            "whiteBalance": 1
-        },
-        {
-            "id": 212,
-            "longname": "Ultrapan 400",
-            "shortname": "FLUP400",
-            "factor": 1,
-            "make": "Flic Film",
-            "type": 1,
-            "iso": 400,
-            "whiteBalance": 1
-        },
-        {
-            "id": 213,
-            "longname": "Ultrapan 18",
-            "shortname": "FLUP18",
-            "factor": 1,
-            "make": "Flic Film",
-            "type": 1,
-            "iso": 400,
-            "whiteBalance": 1
-        },
-        {
-            "id": 214,
-            "longname": "ATM 400",
-            "shortname": "FLATM4",
-            "factor": 1,
-            "make": "Flic Film",
-            "type": 1,
-            "iso": 400,
-            "whiteBalance": 1
-        },
-        {
-            "id": 215,
-            "longname": "MTN 100",
-            "shortname": "FLMTN1",
-            "factor": 1,
-            "make": "Flic Film",
-            "type": 1,
-            "iso": 100,
-            "whiteBalance": 1
-        },
-        {
-            "id": 216,
-            "longname": "Wolfen 100",
-            "shortname": "FLWLF100",
-            "factor": 1,
-            "make": "Flic Film",
-            "type": 1,
-            "iso": 100,
-            "whiteBalance": 1
-        },
-        {
-            "id": 217,
-            "longname": "XX - 250",
-            "shortname": "FLXX250",
-            "factor": 1,
-            "make": "Flic Film",
-            "type": 1,
-            "iso": 250,
-            "whiteBalance": 1
-        },
-        {
-            "id": 218,
-            "longname": "Ultrafine Xtreme UXF 100",
-            "shortname": "FLUXF10",
-            "factor": 1,
-            "make": "Flic Film",
-            "type": 1,
-            "iso": 100,
-            "whiteBalance": 1
-        },
-        {
-            "id": 219,
-            "longname": "Ultrafine Xtreme UXF 400",
-            "shortname": "FLUX400",
-            "factor": 1,
-            "make": "Flic Film",
-            "type": 1,
-            "iso": 400,
-            "whiteBalance": 1
-        },
-        {
-            "id": 221,
-            "longname": "REVOLOG KOLOR 400",
-            "shortname": "RVKL400",
-            "factor": 1,
-            "make": "Revolog",
-            "type": 2,
-            "iso": 400,
-            "whiteBalance": 1
-        },
-        {
-            "id": 222,
-            "longname": "REVOLOG KOSMOS 400",
-            "shortname": "RVKS400",
-            "factor": 1,
-            "make": "Revolog",
-            "type": 2,
-            "iso": 400,
-            "whiteBalance": 1
-        },
-        {
-            "id": 223,
-            "longname": "REVOLOG ECHO 400",
-            "shortname": "RVEC400",
-            "factor": 1,
-            "make": "Revolog",
-            "type": 2,
-            "iso": 400,
-            "whiteBalance": 1
-        },
-            {
-                "id": 224,
-                "longname": "LUCKY SHD 100",
-                "shortname": "LSHD100",
-                "factor": 1,
-                "make": "Lucky",
-                "type": 1,
-                "iso": 100,
-                "whiteBalance": 1
-            },
-            
-            {
-                "id": 225,
-                "longname": "LUCKY SUPER 200",
-                "shortname": "LSUP200",
-                "factor": 1,
-                "make": "Lucky",
-                "type": 2,
-                "iso": 200,
-                "whiteBalance": 1
-            },
-            {
-                "id": 226,
-                "longname": "LUCKY SUPER 100",
-                "shortname": "LSUP100",
-                "factor": 1,
-                "make": "Lucky",
-                "type": 2,
-                "iso": 100,
-                "whiteBalance": 1
-            },
-            
-            {
-                "id": 227,
-                "longname": "LUCKY COLOR 200",
-                "shortname": "LC200",
-                "factor": 1,
-                "make": "Lucky",
-                "type": 2,
-                "iso": 200,
-                "whiteBalance": 1
-            }
-        
+    {
+        "id": 154,
+        "longname": "i-Type Color Instant Film",
+        "shortname": "ITYPEC",
+        "factor": 1,
+        "make": "Polaroid",
+        "type": 5,
+        "iso": 640,
+        "whiteBalance": 1
+    },
+    {
+        "id": 155,
+        "longname": "i-Type B&W Instant Film",
+        "shortname": "ITYPE-BW",
+        "factor": 1,
+        "make": "Polaroid",
+        "type": 6,
+        "iso": 640,
+        "whiteBalance": 1
+    },
+    {
+        "id": 156,
+        "longname": "600 Color Instant Film",
+        "shortname": "P600C",
+        "factor": 1,
+        "make": "Polaroid",
+        "type": 5,
+        "iso": 640,
+        "whiteBalance": 1
+    },
+    {
+        "id": 157,
+        "longname": "600 B&W Instant Film",
+        "shortname": "P600BW",
+        "factor": 1,
+        "make": "Polaroid",
+        "type": 6,
+        "iso": 640,
+        "whiteBalance": 1
+    },
+    {
+        "id": 158,
+        "longname": "SX-70 Color Instant Film",
+        "shortname": "SX70C",
+        "factor": 1,
+        "make": "Polaroid",
+        "type": 5,
+        "iso": 160,
+        "whiteBalance": 1
+    },
+    {
+        "id": 159,
+        "longname": "SX-70 B&W Instant Film",
+        "shortname": "SX70-BW",
+        "factor": 1,
+        "make": "Polaroid",
+        "type": 6,
+        "iso": 160,
+        "whiteBalance": 1
+    },
+    {
+        "id": 160,
+        "longname": "Go Color Instant Film",
+        "shortname": "PGOC",
+        "factor": 1,
+        "make": "Polaroid",
+        "type": 5,
+        "iso": 640,
+        "whiteBalance": 1
+    },
+    {
+        "id": 161,
+        "longname": "Instax Mini Color Film",
+        "shortname": "MINIC",
+        "factor": 1,
+        "make": "Fujifilm",
+        "type": 5,
+        "iso": 800,
+        "whiteBalance": 1
+    },
+    {
+        "id": 162,
+        "longname": "Instax Mini Monochrome Film",
+        "shortname": "MINIBW",
+        "factor": 1,
+        "make": "Fujifilm",
+        "type": 6,
+        "iso": 800,
+        "whiteBalance": 1
+    },
+    {
+        "id": 163,
+        "longname": "Instax Square White Film",
+        "shortname": "SQC",
+        "factor": 1,
+        "make": "Fujifilm",
+        "type": 5,
+        "iso": 800,
+        "whiteBalance": 1
+    },
+    {
+        "id": 164,
+        "longname": "Instax Wide Color Film",
+        "shortname": "WIDEC",
+        "factor": 1,
+        "make": "Fujifilm",
+        "type": 5,
+        "iso": 800,
+        "whiteBalance": 1
+    },
+    {
+        "id": 165,
+        "longname": "Instax Wide Monochrome Film",
+        "shortname": "WIDEBW",
+        "factor": 1,
+        "make": "Fujifilm",
+        "type": 6,
+        "iso": 800,
+        "whiteBalance": 1
+    },
+    {
+        "id": 166,
+        "longname": "EPT Ektachrome 160T",
+        "shortname": "EKT160",
+        "factor": 1,
+        "make": "Kodak",
+        "type": 3,
+        "iso": 160,
+        "whiteBalance": 2
+    }
+    ,
+    {
+        "id": 167,
+        "longname": "PAN 200",
+        "shortname": "KP200",
+        "factor": 1.26,
+        "make": "Kentmere",
+        "type": 1,
+        "iso": 200,
+        "whiteBalance": 1
+    }
+    ,
+    {
+        "id": 168,
+        "longname": "Phoenix 200 II",
+        "shortname": "PH200II",
+        "factor": 1.31,
+        "make": "Harman",
+        "type": 2,
+        "iso": 200,
+        "whiteBalance": 1
+    }
+    , {
+        "id": 169,
+        "longname": "TRI-X 320",
+        "shortname": "TXP320",
+        "factor": 1,
+        "make": "Kodak",
+        "type": 1,
+        "iso": 320,
+        "whiteBalance": 1
+    }
+    ,
+    {
+        "id": 170,
+        "longname": "Colour 400",
+        "shortname": "AGFC400",
+        "factor": 1,
+        "make": "Agfa",
+        "type": 2,
+        "iso": 400,
+        "whiteBalance": 1
+    },
+    {
+        "id": 171,
+        "longname": "Red 125",
+        "shortname": "RED125",
+        "factor": 1,
+        "make": "Harman",
+        "type": 2,
+        "iso": 125,
+        "whiteBalance": 1
+    }
+    , {
+        "id": 172,
+        "longname": "ILFOCOLOR 400 Plus Vintage Tone",
+        "shortname": "IF400+",
+        "factor": 1,
+        "make": "Ilford",
+        "type": 2,
+        "iso": 400,
+        "whiteBalance": 1
+    }
+    , {
+        "id": 173,
+        "longname": "ILFOCOLOR 400 Cine Tone",
+        "shortname": "IF400C",
+        "factor": 1,
+        "make": "Ilford",
+        "type": 2,
+        "iso": 400,
+        "whiteBalance": 1
+    }
+    ,
+    {
+        "id": 174,
+        "longname": "ILFOCHROME 100",
+        "shortname": "IFCH100",
+        "factor": 1,
+        "make": "Ilford",
+        "type": 3,
+        "iso": 100,
+        "whiteBalance": 1
+    }
+    ,
+    {
+        "id": 175,
+        "longname": "Opticolour 200",
+        "shortname": "OPT200",
+        "factor": 1,
+        "make": "Optik Oldschool",
+        "type": 2,
+        "iso": 200,
+        "whiteBalance": 1
+    }
+    ,
+    {
+        "id": 176,
+        "longname": "Photo B&W 100",
+        "shortname": "VBW100",
+        "factor": 1,
+        "make": "Vibe",
+        "type": 1,
+        "iso": 100,
+        "whiteBalance": 1
+    }
+    , {
+        "id": 177,
+        "longname": "Photo B&W 400",
+        "shortname": "VBW400",
+        "factor": 1,
+        "make": "Vibe",
+        "type": 1,
+        "iso": 400,
+        "whiteBalance": 1
+    }
+    ,
+    {
+        "id": 178,
+        "longname": "Photo 400",
+        "shortname": "VBC400",
+        "factor": 1,
+        "make": "Vibe",
+        "type": 2,
+        "iso": 400,
+        "whiteBalance": 1
+    }
+    , {
+        "id": 179,
+        "longname": "Photo 800",
+        "shortname": "VBC800",
+        "factor": 1,
+        "make": "Vibe",
+        "type": 2,
+        "iso": 800,
+        "whiteBalance": 2
+    }
+    ,
+    {
+        "id": 180,
+        "longname": "T-25",
+        "shortname": "SFLT25",
+        "factor": 1,
+        "make": "Sreda Film Lab",
+        "type": 1,
+        "iso": 125,
+        "whiteBalance": 1
+    }
+    ,
+    {
+        "id": 181,
+        "longname": "T-42",
+        "shortname": "SFLT42",
+        "factor": 1,
+        "make": "Sreda Film Lab",
+        "type": 1,
+        "iso": 125,
+        "whiteBalance": 1
+    }
+    ,
+    {
+        "id": 182,
+        "longname": "UN54",
+        "shortname": "SFLUN54",
+        "factor": 1,
+        "make": "Sreda Film Lab",
+        "type": 1,
+        "iso": 100,
+        "whiteBalance": 1
+    }
+    ,
+    {
+        "id": 183,
+        "longname": "UN75",
+        "shortname": "SFLUN75",
+        "factor": 1,
+        "make": "Sreda Film Lab",
+        "type": 1,
+        "iso": 320,
+        "whiteBalance": 1
+    }
+    ,
+    {
+        "id": 184,
+        "longname": "Double-X 5222",
+        "shortname": "SFL5222",
+        "factor": 1,
+        "make": "Sreda Film Lab",
+        "type": 1,
+        "iso": 250,
+        "whiteBalance": 1
+    }
+    ,
+    {
+        "id": 185,
+        "longname": "Double-X Aerographic 400",
+        "shortname": "SFLA400",
+        "factor": 1,
+        "make": "Sreda Film Lab",
+        "type": 1,
+        "iso": 400,
+        "whiteBalance": 1
+    }
+    ,
+    {
+        "id": 186,
+        "longname": "A-Color 125",
+        "shortname": "SFLC125",
+        "factor": 1,
+        "make": "Sreda Film Lab",
+        "type": 2,
+        "iso": 125,
+        "whiteBalance": 1
+    }
+    ,
+    {
+        "id": 187,
+        "longname": "50D",
+        "shortname": "SFL50D",
+        "factor": 1,
+        "make": "Sreda Film Lab",
+        "type": 2,
+        "iso": 50,
+        "whiteBalance": 1
+    }
+    ,
+    {
+        "id": 188,
+        "longname": "250D",
+        "shortname": "SFL250D",
+        "factor": 1,
+        "make": "Sreda Film Lab",
+        "type": 2,
+        "iso": 250,
+        "whiteBalance": 1
+    }
+    ,
+    {
+        "id": 189,
+        "longname": "200T",
+        "shortname": "SFL200T",
+        "factor": 1,
+        "make": "Sreda Film Lab",
+        "type": 2,
+        "iso": 200,
+        "whiteBalance": 2
+    }
+    ,
+    {
+        "id": 190,
+        "longname": "500T",
+        "shortname": "SFL500T",
+        "factor": 1,
+        "make": "Sreda Film Lab",
+        "type": 2,
+        "iso": 500,
+        "whiteBalance": 2
+    }
+    ,
+    {
+        "id": 191,
+        "longname": "Aviphot Pan 200",
+        "shortname": "AVI200",
+        "factor": 1,
+        "make": "Agfa",
+        "type": 1,
+        "iso": 200,
+        "whiteBalance": 1
+    },
+    {
+        "id": 192,
+        "longname": "Aviphot Pan 80",
+        "shortname": "AVI200",
+        "factor": 1,
+        "make": "Agfa",
+        "type": 1,
+        "iso": 80,
+        "whiteBalance": 1
+    },
 
+    {
+        "id": 193,
+        "longname": "1Hundred",
+        "shortname": "1HUND",
+        "factor": 1,
+        "make": "Hundred film",
+        "type": 2,
+        "iso": 100,
+        "whiteBalance": 1
+    },
+    {
+        "id": 194,
+        "longname": "4Hundred",
+        "shortname": "4HUND",
+        "factor": 1,
+        "make": "Hundred film",
+        "type": 2,
+        "iso": 400,
+        "whiteBalance": 1
+    },
+    {
+        "id": 195,
+        "longname": "8Hundred",
+        "shortname": "8HUND",
+        "factor": 1,
+        "make": "Hundred film",
+        "type": 2,
+        "iso": 800,
+        "whiteBalance": 1
+    }
+    ,
+    {
+        "id": 196,
+        "longname": "MONOPAN 50",
+        "shortname": "LEIM50",
+        "factor": 1.27,
+        "make": "Leica",
+        "type": 1,
+        "iso": 50,
+        "whiteBalance": 1
+    },
+    {
+        "id": 197,
+        "longname": "KODACHROME 64",
+        "shortname": "KC64",
+        "factor": 1,
+        "make": "Kodak",
+        "type": 3,
+        "iso": 64,
+        "whiteBalance": 1
+    },
+    {
+        "id": 197,
+        "longname": "KODACHROME 25",
+        "shortname": "KC25",
+        "factor": 1,
+        "make": "Kodak",
+        "type": 3,
+        "iso": 25,
+        "whiteBalance": 1
+    },
+    {
+        "id": 197,
+        "longname": "KODACHROME 200",
+        "shortname": "KCH200",
+        "factor": 1,
+        "make": "Kodak",
+        "type": 3,
+        "iso": 200,
+        "whiteBalance": 1
+    },
+    {
+        "id": 198,
+        "longname": "KODACOLOR 200",
+        "shortname": "KCO200",
+        "factor": 1,
+        "make": "Kodak",
+        "type": 2,
+        "iso": 200,
+        "whiteBalance": 1
+    },
+    {
+        "id": 199,
+        "longname": "KODACOLOR 100",
+        "shortname": "KCO100",
+        "factor": 1,
+        "make": "Kodak",
+        "type": 2,
+        "iso": 100,
+        "whiteBalance": 1
+    },
+    {
+        "id": 200,
+        "longname": "Aurora 400",
+        "shortname": "FLAUR40",
+        "factor": 1,
+        "make": "Flic Film",
+        "type": 2,
+        "iso": 400,
+        "whiteBalance": 1
+    },
+    {
+        "id": 201,
+        "longname": "Elektra 100",
+        "shortname": "FLEL100",
+        "factor": 1,
+        "make": "Flic Film",
+        "type": 2,
+        "iso": 100,
+        "whiteBalance": 1
+    },
+    {
+        "id": 202,
+        "longname": "Apollo 18",
+        "shortname": "FLAP18",
+        "factor": 1,
+        "make": "Flic Film",
+        "type": 2,
+        "iso": 400,
+        "whiteBalance": 1
+    },
+    {
+        "id": 203,
+        "longname": "Psychedelic 400",
+        "shortname": "FLPS400",
+        "factor": 1,
+        "make": "Flic Film",
+        "type": 2,
+        "iso": 400,
+        "whiteBalance": 1
+    },
+    {
+        "id": 204,
+        "longname": "Street Savvy 400",
+        "shortname": "FLSAV40",
+        "factor": 1,
+        "make": "Flic Film",
+        "type": 2,
+        "iso": 400,
+        "whiteBalance": 1
+    },
+    {
+        "id": 205,
+        "longname": "Cine Colour 500T",
+        "shortname": "FLC500T",
+        "factor": 1,
+        "make": "Flic Film",
+        "type": 2,
+        "iso": 500,
+        "whiteBalance": 2
+    },
+    {
+        "id": 206,
+        "longname": "Cine Colour 200T",
+        "shortname": "FLC200T",
+        "factor": 1,
+        "make": "Flic Film",
+        "type": 2,
+        "iso": 200,
+        "whiteBalance": 2
+    },
+    {
+        "id": 207,
+        "longname": "Cine Colour 250D",
+        "shortname": "FLC250D",
+        "factor": 1,
+        "make": "Flic Film",
+        "type": 2,
+        "iso": 250,
+        "whiteBalance": 1
+    },
+    {
+        "id": 208,
+        "longname": "Cine Colour 50D",
+        "shortname": "FLC50D",
+        "factor": 1,
+        "make": "Flic Film",
+        "type": 2,
+        "iso": 50,
+        "whiteBalance": 1
+    },
+    {
+        "id": 209,
+        "longname": "Chrome 100",
+        "shortname": "FLCH100",
+        "factor": 1,
+        "make": "Flic Film",
+        "type": 3,
+        "iso": 100,
+        "whiteBalance": 1
+    },
+    {
+        "id": 210,
+        "longname": "Ultrapan 100",
+        "shortname": "FLUP100",
+        "factor": 1,
+        "make": "Flic Film",
+        "type": 1,
+        "iso": 100,
+        "whiteBalance": 1
+    },
+    {
+        "id": 211,
+        "longname": "Ultrapan 200",
+        "shortname": "FLUP200",
+        "factor": 1,
+        "make": "Flic Film",
+        "type": 1,
+        "iso": 200,
+        "whiteBalance": 1
+    },
+    {
+        "id": 212,
+        "longname": "Ultrapan 400",
+        "shortname": "FLUP400",
+        "factor": 1,
+        "make": "Flic Film",
+        "type": 1,
+        "iso": 400,
+        "whiteBalance": 1
+    },
+    {
+        "id": 213,
+        "longname": "Ultrapan 18",
+        "shortname": "FLUP18",
+        "factor": 1,
+        "make": "Flic Film",
+        "type": 1,
+        "iso": 400,
+        "whiteBalance": 1
+    },
+    {
+        "id": 214,
+        "longname": "ATM 400",
+        "shortname": "FLATM4",
+        "factor": 1,
+        "make": "Flic Film",
+        "type": 1,
+        "iso": 400,
+        "whiteBalance": 1
+    },
+    {
+        "id": 215,
+        "longname": "MTN 100",
+        "shortname": "FLMTN1",
+        "factor": 1,
+        "make": "Flic Film",
+        "type": 1,
+        "iso": 100,
+        "whiteBalance": 1
+    },
+    {
+        "id": 216,
+        "longname": "Wolfen 100",
+        "shortname": "FLWLF100",
+        "factor": 1,
+        "make": "Flic Film",
+        "type": 1,
+        "iso": 100,
+        "whiteBalance": 1
+    },
+    {
+        "id": 217,
+        "longname": "XX - 250",
+        "shortname": "FLXX250",
+        "factor": 1,
+        "make": "Flic Film",
+        "type": 1,
+        "iso": 250,
+        "whiteBalance": 1
+    },
+    {
+        "id": 218,
+        "longname": "Ultrafine Xtreme UXF 100",
+        "shortname": "FLUXF10",
+        "factor": 1,
+        "make": "Flic Film",
+        "type": 1,
+        "iso": 100,
+        "whiteBalance": 1
+    },
+    {
+        "id": 219,
+        "longname": "Ultrafine Xtreme UXF 400",
+        "shortname": "FLUX400",
+        "factor": 1,
+        "make": "Flic Film",
+        "type": 1,
+        "iso": 400,
+        "whiteBalance": 1
+    },
+    {
+        "id": 221,
+        "longname": "REVOLOG KOLOR 400",
+        "shortname": "RVKL400",
+        "factor": 1,
+        "make": "Revolog",
+        "type": 2,
+        "iso": 400,
+        "whiteBalance": 1
+    },
+    {
+        "id": 222,
+        "longname": "REVOLOG KOSMOS 400",
+        "shortname": "RVKS400",
+        "factor": 1,
+        "make": "Revolog",
+        "type": 2,
+        "iso": 400,
+        "whiteBalance": 1
+    },
+    {
+        "id": 223,
+        "longname": "REVOLOG ECHO 400",
+        "shortname": "RVEC400",
+        "factor": 1,
+        "make": "Revolog",
+        "type": 2,
+        "iso": 400,
+        "whiteBalance": 1
+    },
+    {
+        "id": 224,
+        "longname": "LUCKY SHD 100",
+        "shortname": "LSHD100",
+        "factor": 1,
+        "make": "Lucky",
+        "type": 1,
+        "iso": 100,
+        "whiteBalance": 1
+    },
+    {
+        "id": 225,
+        "longname": "LUCKY SUPER 200",
+        "shortname": "LSUP200",
+        "factor": 1,
+        "make": "Lucky",
+        "type": 2,
+        "iso": 200,
+        "whiteBalance": 1
+    },
+    {
+        "id": 226,
+        "longname": "LUCKY SUPER 100",
+        "shortname": "LSUP100",
+        "factor": 1,
+        "make": "Lucky",
+        "type": 2,
+        "iso": 100,
+        "whiteBalance": 1
+    },
+    {
+        "id": 227,
+        "longname": "LUCKY COLOR 200",
+        "shortname": "LC200",
+        "factor": 1,
+        "make": "Lucky",
+        "type": 2,
+        "iso": 200,
+        "whiteBalance": 1
+    }
 ]
