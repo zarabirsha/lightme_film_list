@@ -808,8 +808,7 @@
         "type": 2,
         "iso": 50,
         "whiteBalance": 1
-    }
-    ,
+    },
     {
         "id": 81,
         "longname": "CHS 100 II",
@@ -819,8 +818,7 @@
         "type": 1,
         "iso": 100,
         "whiteBalance": 1
-    }
-    ,
+    },
     {
         "id": 82,
         "longname": "HR-50",
@@ -860,8 +858,7 @@
         "type": 4,
         "iso": 160,
         "whiteBalance": 1
-    }
-    ,
+    },
     {
         "id": 86,
         "longname": "PAN-X 100 Reverso",
@@ -881,8 +878,7 @@
         "type": 1,
         "iso": 80,
         "whiteBalance": 1
-    }
-    ,
+    },
     {
         "id": 88,
         "longname": "Color Mission 200",
@@ -892,8 +888,7 @@
         "type": 2,
         "iso": 200,
         "whiteBalance": 1
-    }
-    ,
+    },
     {
         "id": 89,
         "longname": "400D",
@@ -903,8 +898,7 @@
         "type": 2,
         "iso": 400,
         "whiteBalance": 1
-    }
-    ,
+    },
     {
         "id": 90,
         "longname": "Red Rum",
@@ -914,8 +908,7 @@
         "type": 2,
         "iso": 200,
         "whiteBalance": 1
-    }
-    ,
+    },
     {
         "id": 91,
         "longname": "200 Color Negative Film",
@@ -925,8 +918,7 @@
         "type": 2,
         "iso": 200,
         "whiteBalance": 1
-    }
-    ,
+    },
     {
         "id": 92,
         "longname": "X FILM 80",
@@ -936,8 +928,7 @@
         "type": 1,
         "iso": 80,
         "whiteBalance": 1
-    }
-    ,
+    },
     {
         "id": 93,
         "longname": "X FILM 320",
@@ -947,8 +938,7 @@
         "type": 1,
         "iso": 320,
         "whiteBalance": 1
-    }
-    ,
+    },
     {
         "id": 94,
         "longname": "X FILM 320 Pro",
@@ -958,8 +948,7 @@
         "type": 1,
         "iso": 320,
         "whiteBalance": 1
-    }
-    ,
+    },
     {
         "id": 95,
         "longname": "Orto 50",
@@ -969,7 +958,8 @@
         "type": 1,
         "iso": 50,
         "whiteBalance": 1
-    }, {
+    },
+    {
         "id": 96,
         "longname": "400 Color Negative Film",
         "shortname": "FUJ400",
@@ -998,8 +988,7 @@
         "type": 2,
         "iso": 400,
         "whiteBalance": 1
-    }
-    ,
+    },
     {
         "id": 99,
         "longname": "PAN 100",
@@ -1009,8 +998,7 @@
         "type": 1,
         "iso": 100,
         "whiteBalance": 1
-    }
-    ,
+    },
     {
         "id": 100,
         "longname": "PAN 400",
@@ -1020,8 +1008,7 @@
         "type": 1,
         "iso": 400,
         "whiteBalance": 1
-    }
-    ,
+    },
     {
         "id": 101,
         "longname": "FOMAPAN Ortho 400",
@@ -1031,8 +1018,7 @@
         "type": 1,
         "iso": 400,
         "whiteBalance": 1
-    }
-    ,
+    },
     {
         "id": 102,
         "longname": "Phoenix 200",
@@ -1072,8 +1058,7 @@
         "type": 2,
         "iso": 3,
         "whiteBalance": 1
-    }
-    ,
+    },
     {
         "id": 106,
         "longname": "X FILM 80",
@@ -1083,8 +1068,7 @@
         "type": 1,
         "iso": 80,
         "whiteBalance": 1
-    }
-    ,
+    },
     {
         "id": 107,
         "longname": "X FILM 320",
@@ -1094,8 +1078,7 @@
         "type": 1,
         "iso": 320,
         "whiteBalance": 1
-    }
-    ,
+    },
     {
         "id": 108,
         "longname": "X FILM 320 Pro",
@@ -1105,8 +1088,7 @@
         "type": 1,
         "iso": 320,
         "whiteBalance": 1
-    }
-    ,
+    },
     {
         "id": 109,
         "longname": "Daily black&white",
@@ -1116,8 +1098,7 @@
         "type": 1,
         "iso": 400,
         "whiteBalance": 1
-    }
-    ,
+    },
     {
         "id": 110,
         "longname": "Apollo",
@@ -1127,8 +1108,7 @@
         "type": 2,
         "iso": 200,
         "whiteBalance": 1
-    }
-    ,
+    },
     {
         "id": 111,
         "longname": "Bubblegum",
@@ -1138,8 +1118,7 @@
         "type": 2,
         "iso": 200,
         "whiteBalance": 1
-    }
-    ,
+    },
     {
         "id": 112,
         "longname": "Jelly",
@@ -1149,8 +1128,7 @@
         "type": 2,
         "iso": 200,
         "whiteBalance": 1
-    }
-    ,
+    },
     {
         "id": 113,
         "longname": "Pacific",
@@ -1160,8 +1138,7 @@
         "type": 2,
         "iso": 200,
         "whiteBalance": 1
-    }
-    ,
+    },
     {
         "id": 114,
         "longname": "Solar",
@@ -1171,8 +1148,7 @@
         "type": 2,
         "iso": 200,
         "whiteBalance": 1
-    }
-    ,
+    },
     {
         "id": 115,
         "longname": "Stereo",
@@ -1182,8 +1158,7 @@
         "type": 2,
         "iso": 200,
         "whiteBalance": 1
-    }
-    ,
+    },
     {
         "id": 116,
         "longname": "Daily Color",
@@ -1193,8 +1168,7 @@
         "type": 2,
         "iso": 400,
         "whiteBalance": 1
-    }
-    ,
+    },
     {
         "id": 117,
         "longname": "F",
@@ -1204,8 +1178,7 @@
         "type": 1,
         "iso": 100,
         "whiteBalance": 1
-    }
-    ,
+    },
     {
         "id": 118,
         "longname": "P",
@@ -1215,8 +1188,7 @@
         "type": 1,
         "iso": 100,
         "whiteBalance": 1
-    }
-    ,
+    },
     {
         "id": 119,
         "longname": "V",
@@ -1226,8 +1198,7 @@
         "type": 1,
         "iso": 100,
         "whiteBalance": 1
-    }
-    ,
+    },
     {
         "id": 120,
         "longname": "W",
@@ -1237,8 +1208,7 @@
         "type": 1,
         "iso": 25,
         "whiteBalance": 1
-    }
-    ,
+    },
     {
         "id": 121,
         "longname": "Y",
@@ -1248,8 +1218,7 @@
         "type": 1,
         "iso": 100,
         "whiteBalance": 1
-    }
-    ,
+    },
     {
         "id": 122,
         "longname": "Z",
@@ -1269,8 +1238,7 @@
         "type": 1,
         "iso": 100,
         "whiteBalance": 1
-    }
-    ,
+    },
     {
         "id": 124,
         "longname": "SEAGULL 400",
@@ -1280,8 +1248,7 @@
         "type": 1,
         "iso": 400,
         "whiteBalance": 1
-    }
-    ,
+    },
     {
         "id": 125,
         "longname": "Wolfen NC500",
@@ -1291,8 +1258,7 @@
         "type": 2,
         "iso": 400,
         "whiteBalance": 1
-    }
-    ,
+    },
     {
         "id": 126,
         "longname": "UN54",
@@ -1302,8 +1268,7 @@
         "type": 1,
         "iso": 100,
         "whiteBalance": 1
-    }
-    ,
+    },
     {
         "id": 127,
         "longname": "NP100",
@@ -1313,8 +1278,7 @@
         "type": 1,
         "iso": 100,
         "whiteBalance": 1
-    }
-    ,
+    },
     {
         "id": 128,
         "longname": "P400",
@@ -1324,8 +1288,7 @@
         "type": 1,
         "iso": 400,
         "whiteBalance": 1
-    }
-    ,
+    },
     {
         "id": 129,
         "longname": "Pan 100S",
@@ -1335,8 +1298,7 @@
         "type": 1,
         "iso": 100,
         "whiteBalance": 1
-    }
-    ,
+    },
     {
         "id": 130,
         "longname": "Pan 400",
@@ -1346,8 +1308,7 @@
         "type": 1,
         "iso": 400,
         "whiteBalance": 1
-    }
-    ,
+    },
     {
         "id": 131,
         "longname": "Cool 100",
@@ -1357,8 +1318,7 @@
         "type": 2,
         "iso": 100,
         "whiteBalance": 1
-    }
-    ,
+    },
     {
         "id": 132,
         "longname": "Chrome 100",
@@ -1368,8 +1328,7 @@
         "type": 3,
         "iso": 100,
         "whiteBalance": 1
-    }
-    ,
+    },
     {
         "id": 133,
         "longname": "GP3 100 PAN",
@@ -1379,8 +1338,7 @@
         "type": 1,
         "iso": 100,
         "whiteBalance": 1
-    }
-    ,
+    },
     {
         "id": 134,
         "longname": "GP3 400 PAN",
@@ -1390,8 +1348,7 @@
         "type": 1,
         "iso": 400,
         "whiteBalance": 1
-    }
-    ,
+    },
     {
         "id": 135,
         "longname": "200 Color Film",
@@ -1401,8 +1358,7 @@
         "type": 2,
         "iso": 200,
         "whiteBalance": 1
-    }
-    ,
+    },
     {
         "id": 136,
         "longname": "400 Color Film",
@@ -1412,8 +1368,7 @@
         "type": 2,
         "iso": 400,
         "whiteBalance": 1
-    }
-    ,
+    },
     {
         "id": 137,
         "longname": "800 Color Film",
@@ -1433,8 +1388,7 @@
         "type": 2,
         "iso": 125,
         "whiteBalance": 1
-    }
-    ,
+    },
     {
         "id": 139,
         "longname": "PRO IMAGE 100",
@@ -1454,8 +1408,7 @@
         "type": 2,
         "iso": 400,
         "whiteBalance": 1
-    }
-    ,
+    },
     {
         "id": 141,
         "longname": "MONOLIT 64",
@@ -1465,8 +1418,7 @@
         "type": 1,
         "iso": 64,
         "whiteBalance": 1
-    }
-    ,
+    },
     {
         "id": 142,
         "longname": "REKORDER 100-200",
@@ -1476,8 +1428,7 @@
         "type": 1,
         "iso": 100,
         "whiteBalance": 1
-    }
-    ,
+    },
     {
         "id": 143,
         "longname": "Donau 6",
@@ -1487,8 +1438,7 @@
         "type": 2,
         "iso": 6,
         "whiteBalance": 1
-    }
-    ,
+    },
     {
         "id": 144,
         "longname": "Kolorit 125 Tungsten",
@@ -1498,8 +1448,7 @@
         "type": 2,
         "iso": 125,
         "whiteBalance": 2
-    }
-    ,
+    },
     {
         "id": 145,
         "longname": "Kolorit 400 Tungsten",
@@ -1509,8 +1458,7 @@
         "type": 2,
         "iso": 400,
         "whiteBalance": 2
-    }
-    ,
+    },
     {
         "id": 146,
         "longname": "Rotwild 400",
@@ -1520,8 +1468,7 @@
         "type": 2,
         "iso": 400,
         "whiteBalance": 1
-    }
-    ,
+    },
     {
         "id": 147,
         "longname": "ALiEN 200",
@@ -1531,8 +1478,7 @@
         "type": 2,
         "iso": 200,
         "whiteBalance": 1
-    }
-    ,
+    },
     {
         "id": 148,
         "longname": "UFO 200",
@@ -1542,8 +1488,7 @@
         "type": 2,
         "iso": 200,
         "whiteBalance": 1
-    }
-    ,
+    },
     {
         "id": 149,
         "longname": "KATZ 200",
@@ -1553,8 +1498,7 @@
         "type": 2,
         "iso": 200,
         "whiteBalance": 1
-    }
-    ,
+    },
     {
         "id": 150,
         "longname": "LUFT 200",
@@ -1564,8 +1508,7 @@
         "type": 2,
         "iso": 200,
         "whiteBalance": 1
-    }
-    ,
+    },
     {
         "id": 151,
         "longname": "LIEBE 200",
@@ -1575,19 +1518,17 @@
         "type": 2,
         "iso": 200,
         "whiteBalance": 1
-    }
-    ,
+    },
     {
         "id": 152,
-        "longname": "WINTERMÄRCHEN 200",
+        "longname": "WINTERM\u00c4RCHEN 200",
         "shortname": "WINTER",
         "factor": 1,
         "make": "KONO!",
         "type": 2,
         "iso": 200,
         "whiteBalance": 1
-    }
-    ,
+    },
     {
         "id": 153,
         "longname": "LUCKY SHD 400",
@@ -1598,7 +1539,6 @@
         "iso": 400,
         "whiteBalance": 1
     },
-
     {
         "id": 154,
         "longname": "i-Type Color Instant Film",
@@ -1728,8 +1668,7 @@
         "type": 3,
         "iso": 160,
         "whiteBalance": 2
-    }
-    ,
+    },
     {
         "id": 167,
         "longname": "PAN 200",
@@ -1739,8 +1678,7 @@
         "type": 1,
         "iso": 200,
         "whiteBalance": 1
-    }
-    ,
+    },
     {
         "id": 168,
         "longname": "Phoenix 200 II",
@@ -1750,8 +1688,8 @@
         "type": 2,
         "iso": 200,
         "whiteBalance": 1
-    }
-    , {
+    },
+    {
         "id": 169,
         "longname": "TRI-X 320",
         "shortname": "TXP320",
@@ -1760,8 +1698,7 @@
         "type": 1,
         "iso": 320,
         "whiteBalance": 1
-    }
-    ,
+    },
     {
         "id": 170,
         "longname": "Colour 400",
@@ -1781,8 +1718,8 @@
         "type": 2,
         "iso": 125,
         "whiteBalance": 1
-    }
-    , {
+    },
+    {
         "id": 172,
         "longname": "ILFOCOLOR 400 Plus Vintage Tone",
         "shortname": "IF400+",
@@ -1791,8 +1728,8 @@
         "type": 2,
         "iso": 400,
         "whiteBalance": 1
-    }
-    , {
+    },
+    {
         "id": 173,
         "longname": "ILFOCOLOR 400 Cine Tone",
         "shortname": "IF400C",
@@ -1801,8 +1738,7 @@
         "type": 2,
         "iso": 400,
         "whiteBalance": 1
-    }
-    ,
+    },
     {
         "id": 174,
         "longname": "ILFOCHROME 100",
@@ -1812,8 +1748,7 @@
         "type": 3,
         "iso": 100,
         "whiteBalance": 1
-    }
-    ,
+    },
     {
         "id": 175,
         "longname": "Opticolour 200",
@@ -1823,8 +1758,7 @@
         "type": 2,
         "iso": 200,
         "whiteBalance": 1
-    }
-    ,
+    },
     {
         "id": 176,
         "longname": "Photo B&W 100",
@@ -1834,8 +1768,8 @@
         "type": 1,
         "iso": 100,
         "whiteBalance": 1
-    }
-    , {
+    },
+    {
         "id": 177,
         "longname": "Photo B&W 400",
         "shortname": "VBW400",
@@ -1844,8 +1778,7 @@
         "type": 1,
         "iso": 400,
         "whiteBalance": 1
-    }
-    ,
+    },
     {
         "id": 178,
         "longname": "Photo 400",
@@ -1855,8 +1788,8 @@
         "type": 2,
         "iso": 400,
         "whiteBalance": 1
-    }
-    , {
+    },
+    {
         "id": 179,
         "longname": "Photo 800",
         "shortname": "VBC800",
@@ -1865,8 +1798,7 @@
         "type": 2,
         "iso": 800,
         "whiteBalance": 2
-    }
-    ,
+    },
     {
         "id": 180,
         "longname": "T-25",
@@ -1876,8 +1808,7 @@
         "type": 1,
         "iso": 125,
         "whiteBalance": 1
-    }
-    ,
+    },
     {
         "id": 181,
         "longname": "T-42",
@@ -1887,8 +1818,7 @@
         "type": 1,
         "iso": 125,
         "whiteBalance": 1
-    }
-    ,
+    },
     {
         "id": 182,
         "longname": "UN54",
@@ -1898,8 +1828,7 @@
         "type": 1,
         "iso": 100,
         "whiteBalance": 1
-    }
-    ,
+    },
     {
         "id": 183,
         "longname": "UN75",
@@ -1909,8 +1838,7 @@
         "type": 1,
         "iso": 320,
         "whiteBalance": 1
-    }
-    ,
+    },
     {
         "id": 184,
         "longname": "Double-X 5222",
@@ -1920,8 +1848,7 @@
         "type": 1,
         "iso": 250,
         "whiteBalance": 1
-    }
-    ,
+    },
     {
         "id": 185,
         "longname": "Double-X Aerographic 400",
@@ -1931,8 +1858,7 @@
         "type": 1,
         "iso": 400,
         "whiteBalance": 1
-    }
-    ,
+    },
     {
         "id": 186,
         "longname": "A-Color 125",
@@ -1942,8 +1868,7 @@
         "type": 2,
         "iso": 125,
         "whiteBalance": 1
-    }
-    ,
+    },
     {
         "id": 187,
         "longname": "50D",
@@ -1953,8 +1878,7 @@
         "type": 2,
         "iso": 50,
         "whiteBalance": 1
-    }
-    ,
+    },
     {
         "id": 188,
         "longname": "250D",
@@ -1964,8 +1888,7 @@
         "type": 2,
         "iso": 250,
         "whiteBalance": 1
-    }
-    ,
+    },
     {
         "id": 189,
         "longname": "200T",
@@ -1975,8 +1898,7 @@
         "type": 2,
         "iso": 200,
         "whiteBalance": 2
-    }
-    ,
+    },
     {
         "id": 190,
         "longname": "500T",
@@ -1986,8 +1908,7 @@
         "type": 2,
         "iso": 500,
         "whiteBalance": 2
-    }
-    ,
+    },
     {
         "id": 191,
         "longname": "Aviphot Pan 200",
@@ -2008,7 +1929,6 @@
         "iso": 80,
         "whiteBalance": 1
     },
-
     {
         "id": 193,
         "longname": "1Hundred",
@@ -2038,8 +1958,7 @@
         "type": 2,
         "iso": 800,
         "whiteBalance": 1
-    }
-    ,
+    },
     {
         "id": 196,
         "longname": "MONOPAN 50",
@@ -2368,6 +2287,66 @@
         "make": "Lucky",
         "type": 2,
         "iso": 200,
+        "whiteBalance": 1
+    },
+    {
+        "id": 228,
+        "longname": "Ektacolor Pro 160",
+        "shortname": "ECP160",
+        "factor": 1,
+        "make": "Kodak",
+        "type": 2,
+        "iso": 160,
+        "whiteBalance": 1
+    },
+    {
+        "id": 229,
+        "longname": "Ektacolor Pro 400",
+        "shortname": "ECP400",
+        "factor": 1,
+        "make": "Kodak",
+        "type": 2,
+        "iso": 400,
+        "whiteBalance": 1
+    },
+    {
+        "id": 230,
+        "longname": "Ektacolor Pro 800",
+        "shortname": "ECP800",
+        "factor": 1,
+        "make": "Kodak",
+        "type": 2,
+        "iso": 800,
+        "whiteBalance": 1
+    },
+    {
+        "id": 231,
+        "longname": "Ektapan 100",
+        "shortname": "EKP100",
+        "factor": 1,
+        "make": "Kodak",
+        "type": 1,
+        "iso": 100,
+        "whiteBalance": 1
+    },
+    {
+        "id": 232,
+        "longname": "Ektapan 400",
+        "shortname": "EKP400",
+        "factor": 1,
+        "make": "Kodak",
+        "type": 1,
+        "iso": 400,
+        "whiteBalance": 1
+    },
+    {
+        "id": 233,
+        "longname": "Ektapan P3200",
+        "shortname": "EKP3200",
+        "factor": 1,
+        "make": "Kodak",
+        "type": 1,
+        "iso": 3200,
         "whiteBalance": 1
     }
 ]
