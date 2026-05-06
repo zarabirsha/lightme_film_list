@@ -1251,8 +1251,8 @@
     },
     {
         "id": 125,
-        "longname": "Wolfen NC500",
-        "shortname": "OW500",
+        "longname": "Original Wolfen Color NC 500",
+        "shortname": "OWNC500",
         "factor": 1,
         "make": "ORWO",
         "type": 2,
@@ -1261,7 +1261,7 @@
     },
     {
         "id": 126,
-        "longname": "UN54",
+        "longname": "Original Wolfen Cine UN 54",
         "shortname": "OWUN54",
         "factor": 1,
         "make": "ORWO",
@@ -1271,8 +1271,8 @@
     },
     {
         "id": 127,
-        "longname": "NP100",
-        "shortname": "OW100",
+        "longname": "Original Wolfen NP 100",
+        "shortname": "OWNP100",
         "factor": 1,
         "make": "ORWO",
         "type": 1,
@@ -1281,7 +1281,7 @@
     },
     {
         "id": 128,
-        "longname": "P400",
+        "longname": "Original Wolfen P 400",
         "shortname": "OWP400",
         "factor": 1,
         "make": "ORWO",
@@ -2347,6 +2347,87 @@
         "make": "Kodak",
         "type": 1,
         "iso": 3200,
+        "whiteBalance": 1
+    },
+    
+    {
+        "id": 234,
+        "longname": "Red 125 120",
+        "shortname": "RED125M",
+        "factor": 1,
+        "make": "Harman",
+        "type": 2,
+        "iso": 125,
+        "whiteBalance": 1
+    },
+    {
+        "id": 235,
+        "longname": "Switch Azure 125",
+        "shortname": "SAZ125",
+        "factor": 1,
+        "make": "Harman",
+        "type": 2,
+        "iso": 125,
+        "whiteBalance": 1
+    },
+    {
+        "id": 236,
+        "longname": "LomoChrome Classicolor 200",
+        "shortname": "LCC200",
+        "factor": 1,
+        "make": "Lomography",
+        "type": 2,
+        "iso": 200,
+        "whiteBalance": 1
+    },
+    {
+        "id": 237,
+        "longname": "Original Wolfen Color NC 200",
+        "shortname": "OWNC200",
+        "factor": 1,
+        "make": "ORWO",
+        "type": 2,
+        "iso": 200,
+        "whiteBalance": 1
+    },
+    {
+        "id": 238,
+        "longname": "Original Wolfen Color NC 400",
+        "shortname": "OWNC400",
+        "factor": 1,
+        "make": "ORWO",
+        "type": 2,
+        "iso": 400,
+        "whiteBalance": 1
+    },
+    {
+        "id": 239,
+        "longname": "Original Wolfen Cine DP 31",
+        "shortname": "OWDP31",
+        "factor": 1,
+        "make": "ORWO",
+        "type": 1,
+        "iso": 200,
+        "whiteBalance": 1
+    },
+    {
+        "id": 240,
+        "longname": "Original Wolfen Cine DN 21",
+        "shortname": "OWDN21",
+        "factor": 1,
+        "make": "ORWO",
+        "type": 1,
+        "iso": 160,
+        "whiteBalance": 1
+    },
+    {
+        "id": 241,
+        "longname": "Original Wolfen Cine PF 2",
+        "shortname": "OWPF2",
+        "factor": 1,
+        "make": "ORWO",
+        "type": 1,
+        "iso": 200,
         "whiteBalance": 1
     }
 ]
