@@ -16,7 +16,7 @@ let package = Package(
         // Targets can depend on other targets in this package and products from dependencies.
         .target(
             name: "lightme_film_list",
-	    resources: [.process("films.json")]
+	    resources: [.process("films.json"), .process("formats.json")]
 	),
         .testTarget(
             name: "lightme_film_listTests",
