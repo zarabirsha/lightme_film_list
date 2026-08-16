@@ -1979,26 +1979,7 @@
         "iso": 64,
         "whiteBalance": 1
     },
-    {
-        "id": 197,
-        "longname": "KODACHROME 25",
-        "shortname": "KC25",
-        "factor": 1,
-        "make": "Kodak",
-        "type": 3,
-        "iso": 25,
-        "whiteBalance": 1
-    },
-    {
-        "id": 197,
-        "longname": "KODACHROME 200",
-        "shortname": "KCH200",
-        "factor": 1,
-        "make": "Kodak",
-        "type": 3,
-        "iso": 200,
-        "whiteBalance": 1
-    },
+    
     {
         "id": 198,
         "longname": "KODACOLOR 200",
@@ -2427,6 +2408,26 @@
         "factor": 1,
         "make": "ORWO",
         "type": 1,
+        "iso": 200,
+        "whiteBalance": 1
+    },
+    {
+        "id": 242,
+        "longname": "KODACHROME 25",
+        "shortname": "KC25",
+        "factor": 1,
+        "make": "Kodak",
+        "type": 3,
+        "iso": 25,
+        "whiteBalance": 1
+    },
+    {
+        "id": 243,
+        "longname": "KODACHROME 200",
+        "shortname": "KCH200",
+        "factor": 1,
+        "make": "Kodak",
+        "type": 3,
         "iso": 200,
         "whiteBalance": 1
     }
