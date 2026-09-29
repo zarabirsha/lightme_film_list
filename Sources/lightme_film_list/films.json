@@ -2430,5 +2430,155 @@
         "type": 3,
         "iso": 200,
         "whiteBalance": 1
+    },
+    {
+        "id": 244,
+        "longname": "Amber T800",
+        "shortname": "AT800",
+        "factor": 1,
+        "make": "RETO",
+        "type": 2,
+        "iso": 800,
+        "whiteBalance": 2
+    },
+    {
+        "id": 245,
+        "longname": "Direct Positive Paper",
+        "shortname": "DPP3",
+        "factor": 1,
+        "make": "Ilford",
+        "type": 4,
+        "iso": 3,
+        "whiteBalance": 1
+    },
+    {
+        "id": 246,
+        "longname": "Dracula 64",
+        "shortname": "DRAC64",
+        "factor": 1,
+        "make": "FPP",
+        "type": 1,
+        "iso": 64,
+        "whiteBalance": 1
+    },
+    {
+        "id": 247,
+        "longname": "WolfMan 100",
+        "shortname": "WOLF100",
+        "factor": 1,
+        "make": "FPP",
+        "type": 1,
+        "iso": 100,
+        "whiteBalance": 1
+    },
+    {
+        "id": 248,
+        "longname": "Frankenstein 200",
+        "shortname": "FRANK200",
+        "factor": 1,
+        "make": "FPP",
+        "type": 1,
+        "iso": 200,
+        "whiteBalance": 1
+    },
+    {
+        "id": 249,
+        "longname": "Mummy 400",
+        "shortname": "MUMMY400",
+        "factor": 1,
+        "make": "FPP",
+        "type": 1,
+        "iso": 400,
+        "whiteBalance": 1
+    },
+    {
+        "id": 250,
+        "longname": "Jiangshi 400",
+        "shortname": "JIANG400",
+        "factor": 1,
+        "make": "FPP",
+        "type": 1,
+        "iso": 400,
+        "whiteBalance": 1
+    },
+    {
+        "id": 251,
+        "longname": "Jekyll & Hyde 100",
+        "shortname": "JH100",
+        "factor": 1,
+        "make": "FPP",
+        "type": 1,
+        "iso": 100,
+        "whiteBalance": 1
+    },
+    {
+        "id": 252,
+        "longname": "She Wolf 100",
+        "shortname": "SHEW100",
+        "factor": 1,
+        "make": "FPP",
+        "type": 1,
+        "iso": 100,
+        "whiteBalance": 1
+    },
+    {
+        "id": 253,
+        "longname": "EDU Ultra 100",
+        "shortname": "AEU100",
+        "factor": 1,
+        "make": "Arista",
+        "type": 1,
+        "iso": 100,
+        "whiteBalance": 1
+    },
+    {
+        "id": 254,
+        "longname": "EDU Ultra 200",
+        "shortname": "AEU200",
+        "factor": 1,
+        "make": "Arista",
+        "type": 1,
+        "iso": 200,
+        "whiteBalance": 1
+    },
+    {
+        "id": 255,
+        "longname": "EDU Ultra 400",
+        "shortname": "AEU400",
+        "factor": 1,
+        "make": "Arista",
+        "type": 1,
+        "iso": 400,
+        "whiteBalance": 1
+    },
+    {
+        "id": 256,
+        "longname": "YASHICA 400",
+        "shortname": "Y400",
+        "factor": 1,
+        "make": "Yashica",
+        "type": 2,
+        "iso": 400,
+        "whiteBalance": 1
+    },
+    {
+        "id": 257,
+        "longname": "YASHICA MONO 400",
+        "shortname": "MONO400",
+        "factor": 1,
+        "make": "Yashica",
+        "type": 1,
+        "iso": 400,
+        "whiteBalance": 1
+    },
+    {
+        "id": 258,
+        "longname": "YASHICA 250",
+        "shortname": "Y250",
+        "factor": 1,
+        "make": "Yashica",
+        "type": 2,
+        "iso": 250,
+        "whiteBalance": 1
     }
 ]
