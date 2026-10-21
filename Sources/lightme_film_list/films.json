@@ -512,11 +512,11 @@
     {
         "id": 51,
         "longname": "Earl Grey",
-        "shortname": "EG400",
+        "shortname": "EG100",
         "factor": 1,
         "make": "Lomography",
         "type": 1,
-        "iso": 400,
+        "iso": 100,
         "whiteBalance": 1
     },
     {
@@ -2579,6 +2579,76 @@
         "make": "Yashica",
         "type": 2,
         "iso": 250,
+        "whiteBalance": 1
+    },
+    {
+        "id": 259,
+        "longname": "Centuria 100",
+        "shortname": "CENT100",
+        "factor": 1,
+        "make": "Konica",
+        "type": 2,
+        "iso": 100,
+        "whiteBalance": 1
+    },
+    {
+        "id": 260,
+        "longname": "HIE High Speed Infrared 400",
+        "shortname": "HIE400",
+        "factor": 1,
+        "make": "Kodak",
+        "type": 1,
+        "iso": 400,
+        "whiteBalance": 1
+    },
+    {
+        "id": 261,
+        "longname": "Technical Pan 25",
+        "shortname": "TECHPAN",
+        "factor": 1,
+        "make": "Kodak",
+        "type": 1,
+        "iso": 25,
+        "whiteBalance": 1
+    },
+    {
+        "id": 262,
+        "longname": "Pro 100",
+        "shortname": "RFX100",
+        "factor": 1,
+        "make": "Reflx Lab",
+        "type": 2,
+        "iso": 100,
+        "whiteBalance": 1
+    },
+    {
+        "id": 263,
+        "longname": "Jazzy Blues",
+        "shortname": "JAZZY25",
+        "factor": 1,
+        "make": "Ultrafine",
+        "type": 2,
+        "iso": 25,
+        "whiteBalance": 1
+    },
+    {
+        "id": 264,
+        "longname": "LUCKY COLOR 400",
+        "shortname": "LC400",
+        "factor": 1,
+        "make": "Lucky",
+        "type": 2,
+        "iso": 400,
+        "whiteBalance": 1
+    },
+    {
+        "id": 265,
+        "longname": "VERITA 200D",
+        "shortname": "V200D",
+        "factor": 1,
+        "make": "Kodak",
+        "type": 2,
+        "iso": 200,
         "whiteBalance": 1
     }
 ]
