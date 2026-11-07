@@ -771,7 +771,7 @@
     },
     {
         "id": 77,
-        "longname": "Vision3 500T",
+        "longname": "Vision3 500T (5219)",
         "shortname": "500T",
         "factor": 1,
         "make": "Kodak",
@@ -781,7 +781,7 @@
     },
     {
         "id": 78,
-        "longname": "Vision3 250D",
+        "longname": "Vision3 250D (5207)",
         "shortname": "250D",
         "factor": 1,
         "make": "Kodak",
@@ -791,7 +791,7 @@
     },
     {
         "id": 79,
-        "longname": "Vision3 200T",
+        "longname": "Vision3 200T (5213)",
         "shortname": "200T",
         "factor": 1,
         "make": "Kodak",
@@ -801,7 +801,7 @@
     },
     {
         "id": 80,
-        "longname": "Vision3 50D",
+        "longname": "Vision3 50D (5203)",
         "shortname": "50D",
         "factor": 1,
         "make": "Kodak",
@@ -1381,7 +1381,7 @@
     },
     {
         "id": 138,
-        "longname": "AEROCOLOR IV",
+        "longname": "AEROCOLOR IV (2460)",
         "shortname": "AEROIV",
         "factor": 1,
         "make": "Kodak",
@@ -2643,10 +2643,60 @@
     },
     {
         "id": 265,
-        "longname": "VERITA 200D",
+        "longname": "VERITA 200D (5206)",
         "shortname": "V200D",
         "factor": 1,
         "make": "Kodak",
+        "type": 2,
+        "iso": 200,
+        "whiteBalance": 1
+    },
+    {
+        "id": 266,
+        "longname": "Ektar 25",
+        "shortname": "EK25",
+        "factor": 1,
+        "make": "Kodak",
+        "type": 2,
+        "iso": 25,
+        "whiteBalance": 1
+    },
+    {
+        "id": 267,
+        "longname": "Diamond Everyday 200",
+        "shortname": "JDE200",
+        "factor": 1,
+        "make": "Jessops",
+        "type": 2,
+        "iso": 200,
+        "whiteBalance": 1
+    },
+    {
+        "id": 268,
+        "longname": "Super Positive",
+        "shortname": "SUPPOS",
+        "factor": 1,
+        "make": "FPP",
+        "type": 4,
+        "iso": 1,
+        "whiteBalance": 1
+    },
+    {
+        "id": 269,
+        "longname": "X-Ray 120",
+        "shortname": "XRAY120",
+        "factor": 1,
+        "make": "FPP",
+        "type": 1,
+        "iso": 100,
+        "whiteBalance": 1
+    },
+    {
+        "id": 270,
+        "longname": "Tattoo Flash",
+        "shortname": "TF200",
+        "factor": 1,
+        "make": "Mr. Negative",
         "type": 2,
         "iso": 200,
         "whiteBalance": 1
